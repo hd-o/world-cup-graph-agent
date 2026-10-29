@@ -4759,7 +4759,7 @@ wheels = [
 ]
 
 [[package]]
-name = "world-cup-graph-agent"
+name = "worldcup-agent"
 version = "0.1.0"
 source = { editable = "." }
 default-groups = ["aws", "dev", "gateway", "gcp", "infrastructure"]

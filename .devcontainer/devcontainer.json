@@ -8,7 +8,12 @@
 			"moby": false
 		},
 		"ghcr.io/devcontainers/features/python:1": {},
-		"ghcr.io/devcontainers/features/node:2": {}
+		"ghcr.io/devcontainers/features/node:2": {},
+		// SSH access for desktop coding agents
+		// 1. In container, run `sudo passwd $(whoami)` to set a password
+		// 2. Outside, run `ssh-copy-id -p 2222 vscode@localhost` to add keys
+		// 3. Then follow your coding agent instructions for remote SSH
+		"ghcr.io/devcontainers/features/sshd:1": {}
 	},
 	"mounts": [
 		"type=bind,src=/tmp,dst=/tmp"
@@ -22,7 +27,8 @@
 	"forwardPorts": [
 		2024,
 		7474,
-		7475
+		7475,
+		2222
 	],
 	"portsAttributes": {
 		"2024": {
@@ -34,6 +40,9 @@
 		},
 		"7475": {
 			"label": "Neo4j eval (HTTP)"
+		},
+		"2222": {
+			"label": "ssh -p 2222 vscode@localhost"
 		}
 	}
 }
