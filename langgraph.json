@@ -1,0 +1,25 @@
+{
+  "python_version": "3.14",
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "agent": "./src/world_cup_graph_agent/runtimes/local.py:create_agent"
+  },
+  "checkpointer": {
+    "path": "./src/world_cup_graph_agent/runtimes/local.py:create_checkpointer"
+  },
+  "auth": {
+    "path": "./src/world_cup_graph_agent/runtimes/authorization.py:auth",
+    "disable_studio_auth": true
+  },
+  "http": {
+    "logging_headers": {
+      "exclude": [
+        "authorization",
+        "x-api-key"
+      ]
+    }
+  },
+  "port": 2024
+}

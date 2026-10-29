@@ -1,0 +1,39 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/ubuntu
+{
+	"name": "Ubuntu",
+	"image": "mcr.microsoft.com/devcontainers/base:resolute",
+	"features": {
+		"ghcr.io/devcontainers/features/docker-in-docker:4": {
+			"moby": false
+		},
+		"ghcr.io/devcontainers/features/python:1": {},
+		"ghcr.io/devcontainers/features/node:2": {}
+	},
+	"mounts": [
+		"type=bind,src=/tmp,dst=/tmp"
+	],
+	"postCreateCommand": {
+		"install-uv": "curl -LsSf https://astral.sh/uv/install.sh | sh",
+		"install-langsmith-cli": "curl -fsSL https://cli.langsmith.com/install.sh | sh",
+		"install-playwright-cli": "npm install -g @playwright/cli@latest",
+		"install-playwright-deps": "playwright-cli install"
+	},
+	"forwardPorts": [
+		2024,
+		7474,
+		7475
+	],
+	"portsAttributes": {
+		"2024": {
+			"label": "LangGraph server",
+			"onAutoForward": "notify"
+		},
+		"7474": {
+			"label": "Neo4j dev (HTTP)"
+		},
+		"7475": {
+			"label": "Neo4j eval (HTTP)"
+		}
+	}
+}

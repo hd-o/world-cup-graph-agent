@@ -1,0 +1,6 @@
+$schema: "https://raw.githubusercontent.com/DavidAnson/markdownlint/v0.41.1/schema/markdownlint-config-schema.json"
+
+# For smaller SKILL.md files
+first-line-heading: false
+# For prettified wider tables
+line-length: false

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "fifa-world-cup:2026:finals:group-a",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group A"
+  },
+  {
+    "id": "fifa-world-cup:2026:finals:group-b",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group B"
+  },
+  {
+    "id": "fifa-world-cup:2026:finals:group-c",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group C"
+  },
+  {
+    "id": "fifa-world-cup:2026:finals:group-d",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group D"
+  },
+  {
+    "id": "fifa-world-cup:2026:finals:group-e",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group E"
+  },
+  {
+    "id": "fifa-world-cup:2026:finals:group-f",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group F"
+  },
+  {
+    "id": "fifa-world-cup:2026:finals:group-g",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group G"
+  },
+  {
+    "id": "fifa-world-cup:2026:finals:group-h",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group H"
+  },
+  {
+    "id": "fifa-world-cup:2026:finals:group-i",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group I"
+  },
+  {
+    "id": "fifa-world-cup:2026:finals:group-j",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group J"
+  },
+  {
+    "id": "fifa-world-cup:2026:finals:group-k",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group K"
+  },
+  {
+    "id": "fifa-world-cup:2026:finals:group-l",
+    "competition_id": "fifa-world-cup:2026:finals",
+    "name": "Group L"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "start_id": "MEX",
+    "end_id": "fifa-world-cup:2026:finals:group-a"
+  },
+  {
+    "start_id": "RSA",
+    "end_id": "fifa-world-cup:2026:finals:group-a"
+  },
+  {
+    "start_id": "KOR",
+    "end_id": "fifa-world-cup:2026:finals:group-a"
+  },
+  {
+    "start_id": "CZE",
+    "end_id": "fifa-world-cup:2026:finals:group-a"
+  },
+  {
+    "start_id": "CAN",
+    "end_id": "fifa-world-cup:2026:finals:group-b"
+  },
+  {
+    "start_id": "BIH",
+    "end_id": "fifa-world-cup:2026:finals:group-b"
+  },
+  {
+    "start_id": "QAT",
+    "end_id": "fifa-world-cup:2026:finals:group-b"
+  },
+  {
+    "start_id": "SUI",
+    "end_id": "fifa-world-cup:2026:finals:group-b"
+  },
+  {
+    "start_id": "BRA",
+    "end_id": "fifa-world-cup:2026:finals:group-c"
+  },
+  {
+    "start_id": "MAR",
+    "end_id": "fifa-world-cup:2026:finals:group-c"
+  },
+  {
+    "start_id": "HAI",
+    "end_id": "fifa-world-cup:2026:finals:group-c"
+  },
+  {
+    "start_id": "SCO",
+    "end_id": "fifa-world-cup:2026:finals:group-c"
+  },
+  {
+    "start_id": "USA",
+    "end_id": "fifa-world-cup:2026:finals:group-d"
+  },
+  {
+    "start_id": "PAR",
+    "end_id": "fifa-world-cup:2026:finals:group-d"
+  },
+  {
+    "start_id": "AUS",
+    "end_id": "fifa-world-cup:2026:finals:group-d"
+  },
+  {
+    "start_id": "TUR",
+    "end_id": "fifa-world-cup:2026:finals:group-d"
+  },
+  {
+    "start_id": "GER",
+    "end_id": "fifa-world-cup:2026:finals:group-e"
+  },
+  {
+    "start_id": "CUW",
+    "end_id": "fifa-world-cup:2026:finals:group-e"
+  },
+  {
+    "start_id": "CIV",
+    "end_id": "fifa-world-cup:2026:finals:group-e"
+  },
+  {
+    "start_id": "ECU",
+    "end_id": "fifa-world-cup:2026:finals:group-e"
+  },
+  {
+    "start_id": "NED",
+    "end_id": "fifa-world-cup:2026:finals:group-f"
+  },
+  {
+    "start_id": "JPN",
+    "end_id": "fifa-world-cup:2026:finals:group-f"
+  },
+  {
+    "start_id": "SWE",
+    "end_id": "fifa-world-cup:2026:finals:group-f"
+  },
+  {
+    "start_id": "TUN",
+    "end_id": "fifa-world-cup:2026:finals:group-f"
+  },
+  {
+    "start_id": "BEL",
+    "end_id": "fifa-world-cup:2026:finals:group-g"
+  },
+  {
+    "start_id": "EGY",
+    "end_id": "fifa-world-cup:2026:finals:group-g"
+  },
+  {
+    "start_id": "IRN",
+    "end_id": "fifa-world-cup:2026:finals:group-g"
+  },
+  {
+    "start_id": "NZL",
+    "end_id": "fifa-world-cup:2026:finals:group-g"
+  },
+  {
+    "start_id": "ESP",
+    "end_id": "fifa-world-cup:2026:finals:group-h"
+  },
+  {
+    "start_id": "CPV",
+    "end_id": "fifa-world-cup:2026:finals:group-h"
+  },
+  {
+    "start_id": "KSA",
+    "end_id": "fifa-world-cup:2026:finals:group-h"
+  },
+  {
+    "start_id": "URU",
+    "end_id": "fifa-world-cup:2026:finals:group-h"
+  },
+  {
+    "start_id": "FRA",
+    "end_id": "fifa-world-cup:2026:finals:group-i"
+  },
+  {
+    "start_id": "SEN",
+    "end_id": "fifa-world-cup:2026:finals:group-i"
+  },
+  {
+    "start_id": "IRQ",
+    "end_id": "fifa-world-cup:2026:finals:group-i"
+  },
+  {
+    "start_id": "NOR",
+    "end_id": "fifa-world-cup:2026:finals:group-i"
+  },
+  {
+    "start_id": "ARG",
+    "end_id": "fifa-world-cup:2026:finals:group-j"
+  },
+  {
+    "start_id": "ALG",
+    "end_id": "fifa-world-cup:2026:finals:group-j"
+  },
+  {
+    "start_id": "AUT",
+    "end_id": "fifa-world-cup:2026:finals:group-j"
+  },
+  {
+    "start_id": "JOR",
+    "end_id": "fifa-world-cup:2026:finals:group-j"
+  },
+  {
+    "start_id": "POR",
+    "end_id": "fifa-world-cup:2026:finals:group-k"
+  },
+  {
+    "start_id": "COD",
+    "end_id": "fifa-world-cup:2026:finals:group-k"
+  },
+  {
+    "start_id": "UZB",
+    "end_id": "fifa-world-cup:2026:finals:group-k"
+  },
+  {
+    "start_id": "COL",
+    "end_id": "fifa-world-cup:2026:finals:group-k"
+  },
+  {
+    "start_id": "ENG",
+    "end_id": "fifa-world-cup:2026:finals:group-l"
+  },
+  {
+    "start_id": "CRO",
+    "end_id": "fifa-world-cup:2026:finals:group-l"
+  },
+  {
+    "start_id": "GHA",
+    "end_id": "fifa-world-cup:2026:finals:group-l"
+  },
+  {
+    "start_id": "PAN",
+    "end_id": "fifa-world-cup:2026:finals:group-l"
+  }
+]

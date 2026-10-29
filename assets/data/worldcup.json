@@ -1,0 +1,13 @@
+{
+  "tournament": "FIFA World Cup",
+  "edition": 2026,
+  "source": "openfootball/worldcup.json",
+  "parts": {
+    "groups": "2026/worldcup.groups.json",
+    "matches": "2026/worldcup.json",
+    "qualifyingPlayoffs": "2026/worldcup.quali_playoffs.json",
+    "squads": "2026/worldcup.squads.json",
+    "stadiums": "2026/worldcup.stadiums.json",
+    "teams": "2026/worldcup.teams.json"
+  }
+}

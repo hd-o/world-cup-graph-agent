@@ -1,0 +1,4 @@
+{
+  "app": "python -m deploy.aws.app",
+  "output": "deploy/aws/cdk.out"
+}

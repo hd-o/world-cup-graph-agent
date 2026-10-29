@@ -1,0 +1,418 @@
+[
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-11:MEX:RSA",
+    "end_id": "RSA"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-11:KOR:CZE",
+    "end_id": "CZE"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-18:CZE:RSA",
+    "end_id": "RSA"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-18:MEX:KOR",
+    "end_id": "KOR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-24:CZE:MEX",
+    "end_id": "MEX"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-24:RSA:KOR",
+    "end_id": "KOR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-12:CAN:BIH",
+    "end_id": "BIH"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-13:QAT:SUI",
+    "end_id": "SUI"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-18:SUI:BIH",
+    "end_id": "BIH"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-18:CAN:QAT",
+    "end_id": "QAT"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-24:SUI:CAN",
+    "end_id": "CAN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-24:BIH:QAT",
+    "end_id": "QAT"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-13:BRA:MAR",
+    "end_id": "MAR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-13:HAI:SCO",
+    "end_id": "SCO"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-19:SCO:MAR",
+    "end_id": "MAR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-19:BRA:HAI",
+    "end_id": "HAI"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-24:SCO:BRA",
+    "end_id": "BRA"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-24:MAR:HAI",
+    "end_id": "HAI"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-12:USA:PAR",
+    "end_id": "PAR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-13:AUS:TUR",
+    "end_id": "TUR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-19:USA:AUS",
+    "end_id": "AUS"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-19:TUR:PAR",
+    "end_id": "PAR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-25:TUR:USA",
+    "end_id": "USA"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-25:PAR:AUS",
+    "end_id": "AUS"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-14:GER:CUW",
+    "end_id": "CUW"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-14:CIV:ECU",
+    "end_id": "ECU"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-20:GER:CIV",
+    "end_id": "CIV"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-20:ECU:CUW",
+    "end_id": "CUW"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-25:CUW:CIV",
+    "end_id": "CIV"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-25:ECU:GER",
+    "end_id": "GER"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-14:NED:JPN",
+    "end_id": "JPN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-14:SWE:TUN",
+    "end_id": "TUN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-20:NED:SWE",
+    "end_id": "SWE"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-20:TUN:JPN",
+    "end_id": "JPN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-25:JPN:SWE",
+    "end_id": "SWE"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-25:TUN:NED",
+    "end_id": "NED"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-15:BEL:EGY",
+    "end_id": "EGY"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-15:IRN:NZL",
+    "end_id": "NZL"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-21:BEL:IRN",
+    "end_id": "IRN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-21:NZL:EGY",
+    "end_id": "EGY"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-26:EGY:IRN",
+    "end_id": "IRN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-26:NZL:BEL",
+    "end_id": "BEL"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-15:ESP:CPV",
+    "end_id": "CPV"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-15:KSA:URU",
+    "end_id": "URU"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-21:ESP:KSA",
+    "end_id": "KSA"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-21:URU:CPV",
+    "end_id": "CPV"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-26:CPV:KSA",
+    "end_id": "KSA"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-26:URU:ESP",
+    "end_id": "ESP"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-16:FRA:SEN",
+    "end_id": "SEN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-16:IRQ:NOR",
+    "end_id": "NOR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-22:FRA:IRQ",
+    "end_id": "IRQ"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-22:NOR:SEN",
+    "end_id": "SEN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-26:NOR:FRA",
+    "end_id": "FRA"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-26:SEN:IRQ",
+    "end_id": "IRQ"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-16:ARG:ALG",
+    "end_id": "ALG"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-16:AUT:JOR",
+    "end_id": "JOR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-22:ARG:AUT",
+    "end_id": "AUT"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-22:JOR:ALG",
+    "end_id": "ALG"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-27:ALG:AUT",
+    "end_id": "AUT"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-27:JOR:ARG",
+    "end_id": "ARG"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-17:POR:COD",
+    "end_id": "COD"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-17:UZB:COL",
+    "end_id": "COL"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-23:POR:UZB",
+    "end_id": "UZB"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-23:COL:COD",
+    "end_id": "COD"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-27:COL:POR",
+    "end_id": "POR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-27:COD:UZB",
+    "end_id": "UZB"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-17:ENG:CRO",
+    "end_id": "CRO"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-17:GHA:PAN",
+    "end_id": "PAN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-23:ENG:GHA",
+    "end_id": "GHA"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-23:PAN:CRO",
+    "end_id": "CRO"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-27:PAN:ENG",
+    "end_id": "ENG"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-27:CRO:GHA",
+    "end_id": "GHA"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-28:RSA:CAN",
+    "end_id": "CAN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-29:GER:PAR",
+    "end_id": "PAR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-29:NED:MAR",
+    "end_id": "MAR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-29:BRA:JPN",
+    "end_id": "JPN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-30:FRA:SWE",
+    "end_id": "SWE"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-30:CIV:NOR",
+    "end_id": "NOR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-06-30:MEX:ECU",
+    "end_id": "ECU"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-01:ENG:COD",
+    "end_id": "COD"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-01:USA:BIH",
+    "end_id": "BIH"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-01:BEL:SEN",
+    "end_id": "SEN"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-02:POR:CRO",
+    "end_id": "CRO"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-02:ESP:AUT",
+    "end_id": "AUT"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-02:SUI:ALG",
+    "end_id": "ALG"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-03:ARG:CPV",
+    "end_id": "CPV"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-03:COL:GHA",
+    "end_id": "GHA"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-03:AUS:EGY",
+    "end_id": "EGY"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-04:PAR:FRA",
+    "end_id": "FRA"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-04:CAN:MAR",
+    "end_id": "MAR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-05:BRA:NOR",
+    "end_id": "NOR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-05:MEX:ENG",
+    "end_id": "ENG"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-06:POR:ESP",
+    "end_id": "ESP"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-06:USA:BEL",
+    "end_id": "BEL"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-07:ARG:EGY",
+    "end_id": "EGY"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-07:SUI:COL",
+    "end_id": "COL"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-09:FRA:MAR",
+    "end_id": "MAR"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-10:ESP:BEL",
+    "end_id": "BEL"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-11:NOR:ENG",
+    "end_id": "ENG"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-11:ARG:SUI",
+    "end_id": "SUI"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-14:FRA:ESP",
+    "end_id": "ESP"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-15:ENG:ARG",
+    "end_id": "ARG"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-18:FRA:ENG",
+    "end_id": "ENG"
+  },
+  {
+    "start_id": "fifa-world-cup:2026:finals:2026-07-19:ESP:ARG",
+    "end_id": "ARG"
+  }
+]

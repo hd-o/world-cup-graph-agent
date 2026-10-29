@@ -1,0 +1,4994 @@
+[
+  {
+    "start_id": "matej-kovar:2000-05-17",
+    "end_id": "psv-eindhoven:ned"
+  },
+  {
+    "start_id": "david-zima:2000-11-08",
+    "end_id": "sk-slavia-praha:cze"
+  },
+  {
+    "start_id": "tomas-holes:1993-03-31",
+    "end_id": "sk-slavia-praha:cze"
+  },
+  {
+    "start_id": "robin-hranac:2000-01-29",
+    "end_id": "tsg-hoffenheim:ger"
+  },
+  {
+    "start_id": "vladimir-coufal:1992-08-22",
+    "end_id": "tsg-hoffenheim:ger"
+  },
+  {
+    "start_id": "stepan-chaloupek:2003-03-08",
+    "end_id": "sk-slavia-praha:cze"
+  },
+  {
+    "start_id": "ladislav-krejci:1999-04-20",
+    "end_id": "wolverhampton-wanderers-fc:eng"
+  },
+  {
+    "start_id": "vladimir-darida:1990-08-08",
+    "end_id": "fc-hradec-kralove:cze"
+  },
+  {
+    "start_id": "adam-hlozek:2002-07-25",
+    "end_id": "tsg-hoffenheim:ger"
+  },
+  {
+    "start_id": "patrik-schick:1996-01-24",
+    "end_id": "bayer-04-leverkusen:ger"
+  },
+  {
+    "start_id": "jan-kuchta:1997-01-08",
+    "end_id": "ac-sparta-praha:cze"
+  },
+  {
+    "start_id": "lukas-cerv:2001-04-10",
+    "end_id": "fc-viktoria-plzen:cze"
+  },
+  {
+    "start_id": "mojmir-chytil:1999-04-29",
+    "end_id": "sk-slavia-praha:cze"
+  },
+  {
+    "start_id": "david-jurasek:2000-08-07",
+    "end_id": "sk-slavia-praha:cze"
+  },
+  {
+    "start_id": "pavel-sulc:2000-12-29",
+    "end_id": "olympique-lyonnais:fra"
+  },
+  {
+    "start_id": "jindrich-stanek:1996-04-27",
+    "end_id": "sk-slavia-praha:cze"
+  },
+  {
+    "start_id": "lukas-provod:1996-10-23",
+    "end_id": "sk-slavia-praha:cze"
+  },
+  {
+    "start_id": "michal-sadilek:1999-05-31",
+    "end_id": "sk-slavia-praha:cze"
+  },
+  {
+    "start_id": "tomas-chory:1995-01-26",
+    "end_id": "sk-slavia-praha:cze"
+  },
+  {
+    "start_id": "jaroslav-zeleny:1992-08-20",
+    "end_id": "ac-sparta-praha:cze"
+  },
+  {
+    "start_id": "david-doudera:1998-05-31",
+    "end_id": "sk-slavia-praha:cze"
+  },
+  {
+    "start_id": "tomas-soucek:1995-02-27",
+    "end_id": "west-ham-united-fc:eng"
+  },
+  {
+    "start_id": "lukas-hornicek:2002-07-13",
+    "end_id": "sc-braga:por"
+  },
+  {
+    "start_id": "alexandr-sojka:2003-04-02",
+    "end_id": "fc-viktoria-plzen:cze"
+  },
+  {
+    "start_id": "hugo-sochurek:2008-06-07",
+    "end_id": "ac-sparta-praha:cze"
+  },
+  {
+    "start_id": "denis-visinsky:2003-03-21",
+    "end_id": "fc-viktoria-plzen:cze"
+  },
+  {
+    "start_id": "raul-rangel:2000-02-25",
+    "end_id": "cd-guadalajara:mex"
+  },
+  {
+    "start_id": "jorge-sanchez:1997-12-10",
+    "end_id": "paok-saloniki:gre"
+  },
+  {
+    "start_id": "cesar-montes:1997-02-24",
+    "end_id": "fc-lokomotiv-moscow:rus"
+  },
+  {
+    "start_id": "edson-alvarez:1997-10-24",
+    "end_id": "fenerbahce-sk:tur"
+  },
+  {
+    "start_id": "johan-vasquez:1998-10-22",
+    "end_id": "genoa-cfc:ita"
+  },
+  {
+    "start_id": "erik-lira:2000-05-08",
+    "end_id": "cf-cruz-azul:mex"
+  },
+  {
+    "start_id": "luis-romo:1995-06-05",
+    "end_id": "cd-guadalajara:mex"
+  },
+  {
+    "start_id": "alvaro-fidalgo:1997-04-09",
+    "end_id": "real-betis:esp"
+  },
+  {
+    "start_id": "raul-jimenez:1991-05-05",
+    "end_id": "fulham-fc:eng"
+  },
+  {
+    "start_id": "alexis-vega:1997-11-25",
+    "end_id": "deportivo-toluca-fc:mex"
+  },
+  {
+    "start_id": "santiago-gimenez:2001-04-18",
+    "end_id": "ac-milan:ita"
+  },
+  {
+    "start_id": "carlos-acevedo:1996-04-19",
+    "end_id": "club-santos-laguna:mex"
+  },
+  {
+    "start_id": "guillermo-ochoa:1985-07-13",
+    "end_id": "ael-limassol:cyp"
+  },
+  {
+    "start_id": "armando-gonzalez:2003-04-20",
+    "end_id": "cd-guadalajara:mex"
+  },
+  {
+    "start_id": "israel-reyes:2000-05-23",
+    "end_id": "club-america:mex"
+  },
+  {
+    "start_id": "julian-quinones:1997-03-24",
+    "end_id": "al-qadsiah-fc:ksa"
+  },
+  {
+    "start_id": "orbelin-pineda:1996-03-24",
+    "end_id": "aek-athens:gre"
+  },
+  {
+    "start_id": "obed-vargas:2005-08-05",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "gilberto-mora:2008-10-14",
+    "end_id": "club-tijuana:mex"
+  },
+  {
+    "start_id": "mateo-chavez:2004-05-12",
+    "end_id": "az-alkmaar:ned"
+  },
+  {
+    "start_id": "cesar-huerta:2000-12-03",
+    "end_id": "rsc-anderlecht:bel"
+  },
+  {
+    "start_id": "guillermo-martinez:1995-03-15",
+    "end_id": "pumas-unam:mex"
+  },
+  {
+    "start_id": "jesus-gallardo:1994-08-15",
+    "end_id": "deportivo-toluca-fc:mex"
+  },
+  {
+    "start_id": "luis-chavez:1996-01-15",
+    "end_id": "fc-dynamo-moscow:rus"
+  },
+  {
+    "start_id": "roberto-alvarado:1998-09-07",
+    "end_id": "cd-guadalajara:mex"
+  },
+  {
+    "start_id": "brian-gutierrez:2003-06-17",
+    "end_id": "cd-guadalajara:mex"
+  },
+  {
+    "start_id": "ronwen-williams:1992-01-21",
+    "end_id": "mamelodi-sundowns-fc:rsa"
+  },
+  {
+    "start_id": "thabang-matuludi:1999-01-14",
+    "end_id": "polokwane-city-fc:rsa"
+  },
+  {
+    "start_id": "khulumani-ndamane:2004-02-05",
+    "end_id": "mamelodi-sundowns-fc:rsa"
+  },
+  {
+    "start_id": "teboho-mokoena:1997-01-24",
+    "end_id": "mamelodi-sundowns-fc:rsa"
+  },
+  {
+    "start_id": "thalente-mbatha:2000-03-06",
+    "end_id": "orlando-pirates-fc:rsa"
+  },
+  {
+    "start_id": "aubrey-modiba:1995-07-22",
+    "end_id": "mamelodi-sundowns-fc:rsa"
+  },
+  {
+    "start_id": "oswin-appollis:2001-08-25",
+    "end_id": "orlando-pirates-fc:rsa"
+  },
+  {
+    "start_id": "tshepang-moremi:2000-10-02",
+    "end_id": "orlando-pirates-fc:rsa"
+  },
+  {
+    "start_id": "lyle-foster:2000-09-03",
+    "end_id": "burnley-fc:eng"
+  },
+  {
+    "start_id": "relebohile-mofokeng:2004-10-23",
+    "end_id": "orlando-pirates-fc:rsa"
+  },
+  {
+    "start_id": "themba-zwane:1989-08-03",
+    "end_id": "mamelodi-sundowns-fc:rsa"
+  },
+  {
+    "start_id": "thapelo-maseko:2003-11-11",
+    "end_id": "ael-limassol:cyp"
+  },
+  {
+    "start_id": "sphephelo-sithole:1999-03-03",
+    "end_id": "cd-tondela:por"
+  },
+  {
+    "start_id": "mbekezeli-mbokazi:2005-09-19",
+    "end_id": "chicago-fire-fc:usa"
+  },
+  {
+    "start_id": "iqraam-rayners:1995-12-19",
+    "end_id": "mamelodi-sundowns-fc:rsa"
+  },
+  {
+    "start_id": "sipho-chaine:1996-12-14",
+    "end_id": "orlando-pirates-fc:rsa"
+  },
+  {
+    "start_id": "evidence-makgopa:2000-06-05",
+    "end_id": "orlando-pirates-fc:rsa"
+  },
+  {
+    "start_id": "samukele-kabini:2004-03-15",
+    "end_id": "molde-fk:nor"
+  },
+  {
+    "start_id": "nkosinathi-sibisi:1995-09-22",
+    "end_id": "orlando-pirates-fc:rsa"
+  },
+  {
+    "start_id": "khuliso-mudau:1995-04-26",
+    "end_id": "mamelodi-sundowns-fc:rsa"
+  },
+  {
+    "start_id": "ime-okon:2004-02-20",
+    "end_id": "hannover-96:ger"
+  },
+  {
+    "start_id": "ricardo-goss:1994-04-02",
+    "end_id": "siwelele-fc:rsa"
+  },
+  {
+    "start_id": "jayden-adams:2001-05-05",
+    "end_id": "mamelodi-sundowns-fc:rsa"
+  },
+  {
+    "start_id": "olwethu-makhanya:2004-04-30",
+    "end_id": "philadelphia-union:usa"
+  },
+  {
+    "start_id": "kamogelo-sebelebele:2002-07-21",
+    "end_id": "orlando-pirates-fc:rsa"
+  },
+  {
+    "start_id": "bradley-cross:2001-01-30",
+    "end_id": "kaizer-chiefs-fc:rsa"
+  },
+  {
+    "start_id": "kim-seung-gyu:1990-09-30",
+    "end_id": "fc-tokyo:jpn"
+  },
+  {
+    "start_id": "lee-han-beom:2002-06-17",
+    "end_id": "fc-midtjylland:den"
+  },
+  {
+    "start_id": "lee-gi-hyuk:2000-07-07",
+    "end_id": "gangwon-fc:kor"
+  },
+  {
+    "start_id": "kim-min-jae:1996-11-15",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "kim-tae-hyeon:2000-09-17",
+    "end_id": "kashima-antlers:jpn"
+  },
+  {
+    "start_id": "hwang-in-beom:1996-09-20",
+    "end_id": "feyenoord-rotterdam:ned"
+  },
+  {
+    "start_id": "son-heung-min:1992-07-08",
+    "end_id": "lafc:usa"
+  },
+  {
+    "start_id": "paik-seung-ho:1997-03-17",
+    "end_id": "birmingham-city-fc:eng"
+  },
+  {
+    "start_id": "cho-gue-sung:1998-01-25",
+    "end_id": "fc-midtjylland:den"
+  },
+  {
+    "start_id": "lee-jae-sung:1992-08-10",
+    "end_id": "1.-fsv-mainz-05:ger"
+  },
+  {
+    "start_id": "hwang-hee-chan:1996-01-26",
+    "end_id": "wolverhampton-wanderers-fc:eng"
+  },
+  {
+    "start_id": "song-bum-keun:1997-10-15",
+    "end_id": "jeonbuk-hyundai-motors-fc:kor"
+  },
+  {
+    "start_id": "lee-tae-seok:2002-07-28",
+    "end_id": "fk-austria-wien:aut"
+  },
+  {
+    "start_id": "cho-wi-je:2001-08-25",
+    "end_id": "jeonbuk-hyundai-motors-fc:kor"
+  },
+  {
+    "start_id": "kim-moon-hwan:1995-08-01",
+    "end_id": "daejeon-hana-citizen-fc:kor"
+  },
+  {
+    "start_id": "park-jin-seob:1995-10-23",
+    "end_id": "zhejiang-fc:chn"
+  },
+  {
+    "start_id": "bae-jun-ho:2003-08-21",
+    "end_id": "stoke-city-fc:eng"
+  },
+  {
+    "start_id": "oh-hyeon-gyu:2001-04-12",
+    "end_id": "besiktas-jk:tur"
+  },
+  {
+    "start_id": "lee-kang-in:2001-02-19",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "yang-hyun-jun:2002-05-25",
+    "end_id": "celtic-fc:sco"
+  },
+  {
+    "start_id": "jo-hyeon-woo:1991-09-25",
+    "end_id": "ulsan-hd:kor"
+  },
+  {
+    "start_id": "seol-young-woo:1998-12-05",
+    "end_id": "fk-crvena-zvezda:srb"
+  },
+  {
+    "start_id": "jens-castrop:2003-07-29",
+    "end_id": "borussia-monchengladbach:ger"
+  },
+  {
+    "start_id": "kim-jin-gyu:1997-02-24",
+    "end_id": "jeonbuk-hyundai-motors-fc:kor"
+  },
+  {
+    "start_id": "eom-ji-sung:2002-05-09",
+    "end_id": "swansea-city-afc:wal"
+  },
+  {
+    "start_id": "lee-dong-gyeong:1997-09-20",
+    "end_id": "ulsan-hd:kor"
+  },
+  {
+    "start_id": "nikola-vasilj:1995-12-02",
+    "end_id": "fc-st.-pauli:ger"
+  },
+  {
+    "start_id": "nihad-mujakic:1998-04-15",
+    "end_id": "gaziantep-fk:tur"
+  },
+  {
+    "start_id": "dennis-hadzikadunic:1998-07-09",
+    "end_id": "uc-sampdoria:ita"
+  },
+  {
+    "start_id": "tarik-muharemovic:2003-02-28",
+    "end_id": "us-sassuolo:ita"
+  },
+  {
+    "start_id": "sead-kolasinac:1993-06-20",
+    "end_id": "atalanta-bergamo:ita"
+  },
+  {
+    "start_id": "benjamin-tahirovic:2003-03-03",
+    "end_id": "brøndby-if:den"
+  },
+  {
+    "start_id": "amar-dedic:2002-08-18",
+    "end_id": "sl-benfica:por"
+  },
+  {
+    "start_id": "armin-gigovic:2002-04-06",
+    "end_id": "bsc-young-boys:sui"
+  },
+  {
+    "start_id": "samed-bazdar:2004-01-31",
+    "end_id": "jagiellonia-białystok:pol"
+  },
+  {
+    "start_id": "ermedin-demirovic:1998-03-25",
+    "end_id": "vfb-stuttgart:ger"
+  },
+  {
+    "start_id": "edin-dzeko:1986-03-17",
+    "end_id": "fc-schalke-04:ger"
+  },
+  {
+    "start_id": "mladen-jurkas:2007-10-07",
+    "end_id": "fk-borac-banja-luka:bih"
+  },
+  {
+    "start_id": "ivan-basic:2002-04-30",
+    "end_id": "fc-astana:kaz"
+  },
+  {
+    "start_id": "ivan-sunjic:1996-10-09",
+    "end_id": "pafos-fc:cyp"
+  },
+  {
+    "start_id": "amar-memic:2001-01-20",
+    "end_id": "fc-viktoria-plzen:cze"
+  },
+  {
+    "start_id": "amir-hadziahmetovic:1997-03-08",
+    "end_id": "hull-city-fc:eng"
+  },
+  {
+    "start_id": "dzenis-burnic:1998-05-22",
+    "end_id": "karlsruher-sc:ger"
+  },
+  {
+    "start_id": "nikola-katic:1996-10-10",
+    "end_id": "fc-schalke-04:ger"
+  },
+  {
+    "start_id": "kerim-alajbegovic:2007-09-21",
+    "end_id": "fc-red-bull-salzburg:aut"
+  },
+  {
+    "start_id": "esmir-bajraktarevic:2005-03-10",
+    "end_id": "psv-eindhoven:ned"
+  },
+  {
+    "start_id": "stjepan-radeljic:1997-09-05",
+    "end_id": "hnk-rijeka:cro"
+  },
+  {
+    "start_id": "martin-zlomislic:1998-08-16",
+    "end_id": "hnk-rijeka:cro"
+  },
+  {
+    "start_id": "haris-tabakovic:1994-06-20",
+    "end_id": "borussia-monchengladbach:ger"
+  },
+  {
+    "start_id": "nidal-celik:2006-07-17",
+    "end_id": "sk-sturm-graz:aut"
+  },
+  {
+    "start_id": "jovo-lukic:1998-11-28",
+    "end_id": "universitatea-cluj:rou"
+  },
+  {
+    "start_id": "ermin-mahmic:2005-03-14",
+    "end_id": "fc-slovan-liberec:cze"
+  },
+  {
+    "start_id": "dayne-st.-clair:1997-05-09",
+    "end_id": "inter-miami-cf:usa"
+  },
+  {
+    "start_id": "alistair-johnston:1998-10-08",
+    "end_id": "celtic-fc:sco"
+  },
+  {
+    "start_id": "alfie-jones:1997-10-07",
+    "end_id": "middlesbrough-fc:eng"
+  },
+  {
+    "start_id": "luc-de-fougerolles:2005-10-12",
+    "end_id": "fcv-dender-eh:bel"
+  },
+  {
+    "start_id": "joel-waterman:1996-01-24",
+    "end_id": "chicago-fire-fc:usa"
+  },
+  {
+    "start_id": "mathieu-choiniere:1999-02-07",
+    "end_id": "lafc:usa"
+  },
+  {
+    "start_id": "stephen-eustaquio:1996-12-21",
+    "end_id": "lafc:usa"
+  },
+  {
+    "start_id": "ismael-kone:2002-06-16",
+    "end_id": "us-sassuolo:ita"
+  },
+  {
+    "start_id": "cyle-larin:1995-04-17",
+    "end_id": "southampton-fc:eng"
+  },
+  {
+    "start_id": "jonathan-david:2000-01-14",
+    "end_id": "juventus-fc:ita"
+  },
+  {
+    "start_id": "liam-millar:1999-09-27",
+    "end_id": "hull-city-fc:eng"
+  },
+  {
+    "start_id": "tani-oluwaseyi:2000-05-15",
+    "end_id": "villarreal-cf:esp"
+  },
+  {
+    "start_id": "derek-cornelius:1997-11-25",
+    "end_id": "rangers-fc:sco"
+  },
+  {
+    "start_id": "jacob-shaffelburg:1999-11-26",
+    "end_id": "lafc:usa"
+  },
+  {
+    "start_id": "moise-bombito:2000-03-30",
+    "end_id": "ogc-nice:fra"
+  },
+  {
+    "start_id": "maxime-crepeau:1994-05-11",
+    "end_id": "orlando-city-sc:usa"
+  },
+  {
+    "start_id": "tajon-buchanan:1999-02-08",
+    "end_id": "villarreal-cf:esp"
+  },
+  {
+    "start_id": "owen-goodman:2003-11-27",
+    "end_id": "barnsley:eng"
+  },
+  {
+    "start_id": "alphonso-davies:2000-11-02",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "ali-ahmed:2000-10-10",
+    "end_id": "norwich-city-fc:eng"
+  },
+  {
+    "start_id": "jonathan-osorio:1992-06-12",
+    "end_id": "toronto-fc:can"
+  },
+  {
+    "start_id": "richie-laryea:1995-01-07",
+    "end_id": "toronto-fc:can"
+  },
+  {
+    "start_id": "niko-sigur:2003-09-09",
+    "end_id": "hnk-hajduk-split:cro"
+  },
+  {
+    "start_id": "promise-david:2001-07-03",
+    "end_id": "royale-union-saint-gilloise:bel"
+  },
+  {
+    "start_id": "nathan-saliba:2004-02-07",
+    "end_id": "rsc-anderlecht:bel"
+  },
+  {
+    "start_id": "jayden-nelson:2002-02-07",
+    "end_id": "austin-fc:usa"
+  },
+  {
+    "start_id": "mahmud-abunada:2000-02-05",
+    "end_id": "al-rayyan-sc:qat"
+  },
+  {
+    "start_id": "pedro-miguel:1990-08-06",
+    "end_id": "al-sadd-sc:qat"
+  },
+  {
+    "start_id": "lucas-mendes:1990-07-03",
+    "end_id": "al-wakrah-sc:qat"
+  },
+  {
+    "start_id": "issa-laye:1997-12-22",
+    "end_id": "al-arabi-sc:qat"
+  },
+  {
+    "start_id": "jassem-gaber:2002-02-20",
+    "end_id": "al-rayyan-sc:qat"
+  },
+  {
+    "start_id": "abdulaziz-hatem:1990-01-01",
+    "end_id": "al-rayyan-sc:qat"
+  },
+  {
+    "start_id": "ahmed-alaaeldin:1993-01-31",
+    "end_id": "al-rayyan-sc:qat"
+  },
+  {
+    "start_id": "edmilson-junior:1994-08-19",
+    "end_id": "al-duhail-sc:qat"
+  },
+  {
+    "start_id": "mohammed-muntari:1993-12-20",
+    "end_id": "al-gharafa-sc:qat"
+  },
+  {
+    "start_id": "hassan-al-haydos:1990-12-11",
+    "end_id": "al-sadd-sc:qat"
+  },
+  {
+    "start_id": "akram-afif:1996-11-18",
+    "end_id": "al-sadd-sc:qat"
+  },
+  {
+    "start_id": "karim-boudiaf:1990-09-16",
+    "end_id": "al-duhail-sc:qat"
+  },
+  {
+    "start_id": "ayoub-al-oui:2005-03-11",
+    "end_id": "al-gharafa-sc:qat"
+  },
+  {
+    "start_id": "homam-ahmed:1999-08-25",
+    "end_id": "cultural-leonesa:esp"
+  },
+  {
+    "start_id": "yusuf-abdurisag:1999-08-06",
+    "end_id": "al-wakrah-sc:qat"
+  },
+  {
+    "start_id": "boualem-khoukhi:1990-07-09",
+    "end_id": "al-sadd-sc:qat"
+  },
+  {
+    "start_id": "ahmed-al-ganehi:2000-09-22",
+    "end_id": "al-gharafa-sc:qat"
+  },
+  {
+    "start_id": "sultan-al-brake:1996-04-07",
+    "end_id": "al-duhail-sc:qat"
+  },
+  {
+    "start_id": "almoez-ali:1996-08-19",
+    "end_id": "al-duhail-sc:qat"
+  },
+  {
+    "start_id": "ahmed-fathy:1993-01-25",
+    "end_id": "al-arabi-sc:qat"
+  },
+  {
+    "start_id": "salah-zakaria:1999-04-24",
+    "end_id": "al-duhail-sc:qat"
+  },
+  {
+    "start_id": "meshaal-barsham:1998-02-14",
+    "end_id": "al-sadd-sc:qat"
+  },
+  {
+    "start_id": "assim-madibo:1996-10-22",
+    "end_id": "al-wakrah-sc:qat"
+  },
+  {
+    "start_id": "tahsin-jamshid:2006-06-16",
+    "end_id": "al-duhail-sc:qat"
+  },
+  {
+    "start_id": "al-hashmi-al-hussain:2003-08-15",
+    "end_id": "al-arabi-sc:qat"
+  },
+  {
+    "start_id": "mohamed-manai:2002-10-25",
+    "end_id": "al-shamal-sc:qat"
+  },
+  {
+    "start_id": "gregor-kobel:1997-12-06",
+    "end_id": "borussia-dortmund:ger"
+  },
+  {
+    "start_id": "miro-muheim:1998-03-24",
+    "end_id": "hamburger-sv:ger"
+  },
+  {
+    "start_id": "silvan-widmer:1993-03-05",
+    "end_id": "1.-fsv-mainz-05:ger"
+  },
+  {
+    "start_id": "nico-elvedi:1996-09-30",
+    "end_id": "borussia-monchengladbach:ger"
+  },
+  {
+    "start_id": "manuel-akanji:1995-07-19",
+    "end_id": "fc-internazionale-milano:ita"
+  },
+  {
+    "start_id": "denis-zakaria:1996-11-20",
+    "end_id": "as-monaco:fra"
+  },
+  {
+    "start_id": "breel-embolo:1997-02-14",
+    "end_id": "stade-rennais-fc:fra"
+  },
+  {
+    "start_id": "remo-freuler:1992-04-15",
+    "end_id": "bologna-fc:ita"
+  },
+  {
+    "start_id": "johan-manzambi:2005-10-14",
+    "end_id": "sc-freiburg:ger"
+  },
+  {
+    "start_id": "granit-xhaka:1992-09-27",
+    "end_id": "sunderland-afc:eng"
+  },
+  {
+    "start_id": "dan-ndoye:2000-10-25",
+    "end_id": "nottingham-forest-fc:eng"
+  },
+  {
+    "start_id": "yvon-mvogo:1994-06-06",
+    "end_id": "fc-lorient:fra"
+  },
+  {
+    "start_id": "ricardo-rodriguez:1992-08-25",
+    "end_id": "real-betis:esp"
+  },
+  {
+    "start_id": "ardon-jashari:2002-07-30",
+    "end_id": "ac-milan:ita"
+  },
+  {
+    "start_id": "djibril-sow:1997-02-06",
+    "end_id": "sevilla-fc:esp"
+  },
+  {
+    "start_id": "christian-fassnacht:1993-11-11",
+    "end_id": "bsc-young-boys:sui"
+  },
+  {
+    "start_id": "ruben-vargas:1998-08-05",
+    "end_id": "sevilla-fc:esp"
+  },
+  {
+    "start_id": "eray-comert:1998-02-04",
+    "end_id": "valencia-cf:esp"
+  },
+  {
+    "start_id": "noah-okafor:2000-05-24",
+    "end_id": "leeds-united-fc:eng"
+  },
+  {
+    "start_id": "michel-aebischer:1997-01-06",
+    "end_id": "pisa-sc:ita"
+  },
+  {
+    "start_id": "marvin-keller:2002-07-03",
+    "end_id": "bsc-young-boys:sui"
+  },
+  {
+    "start_id": "fabian-rieder:2002-02-16",
+    "end_id": "fc-augsburg:ger"
+  },
+  {
+    "start_id": "zeki-amdouni:2000-12-04",
+    "end_id": "burnley-fc:eng"
+  },
+  {
+    "start_id": "aurele-amenda:2003-07-31",
+    "end_id": "eintracht-frankfurt:ger"
+  },
+  {
+    "start_id": "luca-jaquez:2003-06-02",
+    "end_id": "vfb-stuttgart:ger"
+  },
+  {
+    "start_id": "cedric-itten:1996-12-27",
+    "end_id": "fortuna-dusseldorf:ger"
+  },
+  {
+    "start_id": "alisson:1992-10-02",
+    "end_id": "liverpool-fc:eng"
+  },
+  {
+    "start_id": "ederson-silva:1999-07-07",
+    "end_id": "atalanta-bergamo:ita"
+  },
+  {
+    "start_id": "gabriel-magalhaes:1997-12-19",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "marquinhos:1994-05-14",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "casemiro:1992-02-23",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "alex-sandro:1991-01-26",
+    "end_id": "cr-flamengo:bra"
+  },
+  {
+    "start_id": "vinicius-junior:2000-07-12",
+    "end_id": "real-madrid-c.-f.:esp"
+  },
+  {
+    "start_id": "bruno-guimaraes:1997-11-16",
+    "end_id": "newcastle-united-fc:eng"
+  },
+  {
+    "start_id": "matheus-cunha:1999-05-27",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "neymar:1992-02-05",
+    "end_id": "santos-fc:bra"
+  },
+  {
+    "start_id": "raphinha:1996-12-14",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "weverton:1987-12-13",
+    "end_id": "gremio-fbpa:bra"
+  },
+  {
+    "start_id": "danilo-luiz:1991-07-15",
+    "end_id": "cr-flamengo:bra"
+  },
+  {
+    "start_id": "bremer:1997-03-18",
+    "end_id": "juventus-fc:ita"
+  },
+  {
+    "start_id": "leo-pereira:1996-01-31",
+    "end_id": "cr-flamengo:bra"
+  },
+  {
+    "start_id": "douglas-santos:1994-03-22",
+    "end_id": "fc-zenit-st.-petersburg:rus"
+  },
+  {
+    "start_id": "fabinho:1993-10-23",
+    "end_id": "al-ittihad:ksa"
+  },
+  {
+    "start_id": "danilo-santos:2001-04-29",
+    "end_id": "botafogo:bra"
+  },
+  {
+    "start_id": "endrick:2006-07-21",
+    "end_id": "olympique-lyonnais:fra"
+  },
+  {
+    "start_id": "lucas-paqueta:1997-08-27",
+    "end_id": "cr-flamengo:bra"
+  },
+  {
+    "start_id": "luiz-henrique:2001-01-02",
+    "end_id": "fc-zenit-st.-petersburg:rus"
+  },
+  {
+    "start_id": "gabriel-martinelli:2001-06-18",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "ederson-moraes:1993-08-17",
+    "end_id": "fenerbahce-sk:tur"
+  },
+  {
+    "start_id": "roger-ibanez:1998-11-23",
+    "end_id": "al-ahli-fc:ksa"
+  },
+  {
+    "start_id": "igor-thiago:2001-06-26",
+    "end_id": "brentford-fc:eng"
+  },
+  {
+    "start_id": "rayan:2006-08-03",
+    "end_id": "afc-bournemouth:eng"
+  },
+  {
+    "start_id": "johny-placide:1988-01-29",
+    "end_id": "sc-bastia:fra"
+  },
+  {
+    "start_id": "carlens-arcus:1996-06-28",
+    "end_id": "angers-sco:fra"
+  },
+  {
+    "start_id": "keeto-thermoncy:2006-03-29",
+    "end_id": "bsc-young-boys:sui"
+  },
+  {
+    "start_id": "ricardo-ade:1990-05-21",
+    "end_id": "ldu-quito:ecu"
+  },
+  {
+    "start_id": "hannes-delcroix:1999-02-28",
+    "end_id": "fc-lugano:sui"
+  },
+  {
+    "start_id": "carl-sainte:2002-08-09",
+    "end_id": "el-paso-locomotive-fc:usa"
+  },
+  {
+    "start_id": "derrick-etienne-jr.:1996-11-25",
+    "end_id": "toronto-fc:can"
+  },
+  {
+    "start_id": "martin-experience:1999-03-09",
+    "end_id": "as-nancy:fra"
+  },
+  {
+    "start_id": "duckens-nazon:1994-04-07",
+    "end_id": "esteghlal-tehran-fc:irn"
+  },
+  {
+    "start_id": "jean-ricner-bellegarde:1998-06-27",
+    "end_id": "wolverhampton-wanderers-fc:eng"
+  },
+  {
+    "start_id": "louicius-deedson:2001-02-11",
+    "end_id": "fc-dallas:usa"
+  },
+  {
+    "start_id": "alexandre-pierre:2001-02-25",
+    "end_id": "fc-sochaux-montbeliard:fra"
+  },
+  {
+    "start_id": "duke-lacroix:1993-10-14",
+    "end_id": "colorado-springs-switchbacks-fc:usa"
+  },
+  {
+    "start_id": "leverton-pierre:1998-03-09",
+    "end_id": "colorado-springs-switchbacks-fc:usa"
+  },
+  {
+    "start_id": "ruben-providence:2001-07-07",
+    "end_id": "almere-city-fc:ned"
+  },
+  {
+    "start_id": "lenny-joseph:2000-10-12",
+    "end_id": "ferencvarosi-tc:hun"
+  },
+  {
+    "start_id": "danley-jean-jacques:2000-05-20",
+    "end_id": "philadelphia-union:usa"
+  },
+  {
+    "start_id": "wilson-isidor:2000-08-27",
+    "end_id": "sunderland-afc:eng"
+  },
+  {
+    "start_id": "yassin-fortune:1999-01-30",
+    "end_id": "fc-vizela:por"
+  },
+  {
+    "start_id": "frantzdy-pierrot:1995-03-29",
+    "end_id": "caykur-rizespor:tur"
+  },
+  {
+    "start_id": "josue-casimir:2001-09-24",
+    "end_id": "aj-auxerre:fra"
+  },
+  {
+    "start_id": "jean-kevin-duverne:1997-07-12",
+    "end_id": "kaa-gent:bel"
+  },
+  {
+    "start_id": "josue-duverger:2000-04-27",
+    "end_id": "fc-cosmos-koblenz:ger"
+  },
+  {
+    "start_id": "wilguens-paugain:2001-08-24",
+    "end_id": "sv-zulte-waregem:bel"
+  },
+  {
+    "start_id": "dominique-simon:2000-07-29",
+    "end_id": "fc-tatran-presov:svk"
+  },
+  {
+    "start_id": "woodensky-pierre:2004-12-30",
+    "end_id": "violette-ac:hai"
+  },
+  {
+    "start_id": "yassine-bounou:1991-04-05",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "achraf-hakimi:1998-11-04",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "noussair-mazraoui:1997-11-14",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "sofyan-amrabat:1996-08-21",
+    "end_id": "real-betis:esp"
+  },
+  {
+    "start_id": "nayef-aguerd:1996-03-30",
+    "end_id": "al-fateh-sc:ksa"
+  },
+  {
+    "start_id": "ayyoub-bouaddi:2007-10-02",
+    "end_id": "lille-osc:fra"
+  },
+  {
+    "start_id": "chemsdine-talbi:2005-05-09",
+    "end_id": "sunderland-afc:eng"
+  },
+  {
+    "start_id": "azzedine-ounahi:2000-04-19",
+    "end_id": "girona-fc:esp"
+  },
+  {
+    "start_id": "soufiane-rahimi:1996-06-02",
+    "end_id": "al-ain-fc:uae"
+  },
+  {
+    "start_id": "brahim-diaz:1999-08-03",
+    "end_id": "real-madrid-c.-f.:esp"
+  },
+  {
+    "start_id": "ismael-saibari:2001-01-28",
+    "end_id": "psv-eindhoven:ned"
+  },
+  {
+    "start_id": "munir-mohamedi:1989-05-10",
+    "end_id": "rs-berkane:mar"
+  },
+  {
+    "start_id": "zakaria-el-ouahdi:2001-12-31",
+    "end_id": "krc-genk:bel"
+  },
+  {
+    "start_id": "issa-diop:1997-01-09",
+    "end_id": "fulham-fc:eng"
+  },
+  {
+    "start_id": "samir-el-mourabet:2005-10-06",
+    "end_id": "rc-strasbourg:fra"
+  },
+  {
+    "start_id": "gessime-yassine:2005-11-22",
+    "end_id": "rc-strasbourg:fra"
+  },
+  {
+    "start_id": "abde-ezzalzouli:2001-12-17",
+    "end_id": "angers-sco:fra"
+  },
+  {
+    "start_id": "chadi-riad:2003-06-17",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "youssef-belammari:1998-09-20",
+    "end_id": "al-ahly-fc:egy"
+  },
+  {
+    "start_id": "ayoub-el-kaabi:1993-06-25",
+    "end_id": "olympiacos-fc:gre"
+  },
+  {
+    "start_id": "ayoube-amaimouni:2004-11-30",
+    "end_id": "eintracht-frankfurt:ger"
+  },
+  {
+    "start_id": "ahmed-reda-tagnaouti:1996-04-05",
+    "end_id": "asfar:mar"
+  },
+  {
+    "start_id": "bilal-el-khannouss:2004-05-10",
+    "end_id": "vfb-stuttgart:ger"
+  },
+  {
+    "start_id": "neil-el-aynaoui:2001-07-02",
+    "end_id": "as-roma:ita"
+  },
+  {
+    "start_id": "redouane-halhal:2003-03-05",
+    "end_id": "kv-mechelen:bel"
+  },
+  {
+    "start_id": "anass-salah-eddine:2002-01-18",
+    "end_id": "psv-eindhoven:ned"
+  },
+  {
+    "start_id": "angus-gunn:1996-01-22",
+    "end_id": "nottingham-forest-fc:eng"
+  },
+  {
+    "start_id": "aaron-hickey:2002-06-10",
+    "end_id": "brentford-fc:eng"
+  },
+  {
+    "start_id": "andy-robertson:1994-03-11",
+    "end_id": "liverpool-fc:eng"
+  },
+  {
+    "start_id": "scott-mctominay:1996-12-08",
+    "end_id": "ssc-napoli:ita"
+  },
+  {
+    "start_id": "grant-hanley:1991-11-20",
+    "end_id": "hibernian-fc:sco"
+  },
+  {
+    "start_id": "kieran-tierney:1997-06-05",
+    "end_id": "celtic-fc:sco"
+  },
+  {
+    "start_id": "john-mcginn:1994-10-18",
+    "end_id": "aston-villa-fc:eng"
+  },
+  {
+    "start_id": "tyler-fletcher:2007-03-19",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "lyndon-dykes:1995-10-07",
+    "end_id": "charlton-athletic-fc:eng"
+  },
+  {
+    "start_id": "che-adams:1996-07-13",
+    "end_id": "torino-fc:ita"
+  },
+  {
+    "start_id": "ryan-christie:1995-02-22",
+    "end_id": "afc-bournemouth:eng"
+  },
+  {
+    "start_id": "liam-kelly:1996-01-23",
+    "end_id": "rangers-fc:sco"
+  },
+  {
+    "start_id": "jack-hendry:1995-05-07",
+    "end_id": "al-ettifaq-fc:ksa"
+  },
+  {
+    "start_id": "ross-stewart:1996-07-11",
+    "end_id": "southampton-fc:eng"
+  },
+  {
+    "start_id": "john-souttar:1996-09-25",
+    "end_id": "rangers-fc:sco"
+  },
+  {
+    "start_id": "dominic-hyam:1995-12-20",
+    "end_id": "wrexham-afc:wal"
+  },
+  {
+    "start_id": "ben-gannon-doak:2005-11-11",
+    "end_id": "afc-bournemouth:eng"
+  },
+  {
+    "start_id": "george-hirst:1999-02-15",
+    "end_id": "ipswich-town-fc:eng"
+  },
+  {
+    "start_id": "lewis-ferguson:1999-08-24",
+    "end_id": "bologna-fc:ita"
+  },
+  {
+    "start_id": "lawrence-shankland:1995-08-10",
+    "end_id": "heart-of-midlothian-fc:sco"
+  },
+  {
+    "start_id": "craig-gordon:1982-12-31",
+    "end_id": "heart-of-midlothian-fc:sco"
+  },
+  {
+    "start_id": "nathan-patterson:2001-10-16",
+    "end_id": "everton-fc:eng"
+  },
+  {
+    "start_id": "kenny-mclean:1992-01-08",
+    "end_id": "norwich-city-fc:eng"
+  },
+  {
+    "start_id": "anthony-ralston:1998-11-16",
+    "end_id": "celtic-fc:sco"
+  },
+  {
+    "start_id": "findlay-curtis:2006-06-09",
+    "end_id": "kilmarnock-fc:sco"
+  },
+  {
+    "start_id": "scott-mckenna:1996-11-12",
+    "end_id": "gnk-dinamo-zagreb:cro"
+  },
+  {
+    "start_id": "mathew-ryan:1992-04-08",
+    "end_id": "levante-ud:esp"
+  },
+  {
+    "start_id": "milos-degenek:1994-04-28",
+    "end_id": "apoel-fc:cyp"
+  },
+  {
+    "start_id": "alessandro-circati:2003-10-10",
+    "end_id": "parma:ita"
+  },
+  {
+    "start_id": "jacob-italiano:2001-07-30",
+    "end_id": "grazer-ak:aut"
+  },
+  {
+    "start_id": "jordan-bos:2002-10-29",
+    "end_id": "feyenoord-rotterdam:ned"
+  },
+  {
+    "start_id": "jason-geria:1993-05-10",
+    "end_id": "albirex-niigata:jpn"
+  },
+  {
+    "start_id": "mathew-leckie:1991-02-04",
+    "end_id": "melbourne-city-fc:aus"
+  },
+  {
+    "start_id": "connor-metcalfe:1999-11-05",
+    "end_id": "fc-st.-pauli:ger"
+  },
+  {
+    "start_id": "mohamed-toure:2004-03-26",
+    "end_id": "norwich-city-fc:eng"
+  },
+  {
+    "start_id": "ajdin-hrustic:1996-07-05",
+    "end_id": "sc-heracles-almelo:ned"
+  },
+  {
+    "start_id": "awer-mabil:1995-09-15",
+    "end_id": "cd-castellon:esp"
+  },
+  {
+    "start_id": "paul-izzo:1995-01-06",
+    "end_id": "randers-fc:den"
+  },
+  {
+    "start_id": "aiden-o'neill:1998-07-04",
+    "end_id": "new-york-city-fc:usa"
+  },
+  {
+    "start_id": "cammy-devlin:1998-06-07",
+    "end_id": "heart-of-midlothian-fc:sco"
+  },
+  {
+    "start_id": "kai-trewin:2001-05-18",
+    "end_id": "new-york-city-fc:usa"
+  },
+  {
+    "start_id": "aziz-behich:1990-12-16",
+    "end_id": "melbourne-city-fc:aus"
+  },
+  {
+    "start_id": "nestory-irankunda:2006-02-09",
+    "end_id": "watford-fc:eng"
+  },
+  {
+    "start_id": "patrick-beach:2003-08-06",
+    "end_id": "melbourne-city-fc:aus"
+  },
+  {
+    "start_id": "harry-souttar:1998-10-22",
+    "end_id": "leicester-city-fc:eng"
+  },
+  {
+    "start_id": "cristian-volpato:2003-11-15",
+    "end_id": "us-sassuolo:ita"
+  },
+  {
+    "start_id": "cameron-burgess:1995-10-21",
+    "end_id": "swansea-city-afc:wal"
+  },
+  {
+    "start_id": "jackson-irvine:1993-03-07",
+    "end_id": "fc-st.-pauli:ger"
+  },
+  {
+    "start_id": "nishan-velupillay:2001-05-07",
+    "end_id": "melbourne-victory-fc:aus"
+  },
+  {
+    "start_id": "paul-okon-engstler:2005-01-24",
+    "end_id": "sydney-fc:aus"
+  },
+  {
+    "start_id": "lucas-herrington:2007-09-05",
+    "end_id": "colorado-rapids:usa"
+  },
+  {
+    "start_id": "tete-yengi:2000-11-28",
+    "end_id": "fc-machida-zelvia:jpn"
+  },
+  {
+    "start_id": "gatito-fernandez:1988-03-29",
+    "end_id": "cerro-porteno:par"
+  },
+  {
+    "start_id": "gustavo-velazquez:1991-04-17",
+    "end_id": "cerro-porteno:par"
+  },
+  {
+    "start_id": "omar-alderete:1996-12-26",
+    "end_id": "sunderland-afc:eng"
+  },
+  {
+    "start_id": "juan-jose-caceres:2000-06-01",
+    "end_id": "fc-dynamo-moscow:rus"
+  },
+  {
+    "start_id": "fabian-balbuena:1991-08-23",
+    "end_id": "gremio-fbpa:bra"
+  },
+  {
+    "start_id": "junior-alonso:1993-02-09",
+    "end_id": "atletico-mineiro:bra"
+  },
+  {
+    "start_id": "ramon-sosa:1999-08-31",
+    "end_id": "se-palmeiras:bra"
+  },
+  {
+    "start_id": "diego-gomez:2003-03-27",
+    "end_id": "brighton-&-hove-albion-fc:eng"
+  },
+  {
+    "start_id": "antonio-sanabria:1996-03-04",
+    "end_id": "us-cremonese:ita"
+  },
+  {
+    "start_id": "miguel-almiron:1994-02-10",
+    "end_id": "atlanta-united-fc:usa"
+  },
+  {
+    "start_id": "mauricio:2001-06-22",
+    "end_id": "se-palmeiras:bra"
+  },
+  {
+    "start_id": "orlando-gill:2000-06-11",
+    "end_id": "ca-san-lorenzo:arg"
+  },
+  {
+    "start_id": "jose-canale:1996-07-20",
+    "end_id": "ca-lanus:arg"
+  },
+  {
+    "start_id": "andres-cubas:1996-05-11",
+    "end_id": "vancouver-whitecaps-fc:can"
+  },
+  {
+    "start_id": "gustavo-gomez:1993-05-06",
+    "end_id": "se-palmeiras:bra"
+  },
+  {
+    "start_id": "damian-bobadilla:2001-07-11",
+    "end_id": "sao-paulo-fc:bra"
+  },
+  {
+    "start_id": "kaku:1995-01-11",
+    "end_id": "al-ain-fc:uae"
+  },
+  {
+    "start_id": "alex-arce:1995-06-16",
+    "end_id": "cs-independiente-rivadavia:arg"
+  },
+  {
+    "start_id": "julio-enciso:2004-01-23",
+    "end_id": "rc-strasbourg:fra"
+  },
+  {
+    "start_id": "braian-ojeda:2000-06-27",
+    "end_id": "orlando-city-sc:usa"
+  },
+  {
+    "start_id": "gabriel-avalos:1990-10-12",
+    "end_id": "ca-independiente:arg"
+  },
+  {
+    "start_id": "gaston-olveira:1993-04-21",
+    "end_id": "club-olimpia:par"
+  },
+  {
+    "start_id": "matias-galarza:2002-02-11",
+    "end_id": "atlanta-united-fc:usa"
+  },
+  {
+    "start_id": "gustavo-caballero:2001-09-21",
+    "end_id": "portsmouth-fc:eng"
+  },
+  {
+    "start_id": "isidro-pitta:1999-08-14",
+    "end_id": "red-bull-bragantino:bra"
+  },
+  {
+    "start_id": "alexandro-maidana:2005-07-26",
+    "end_id": "ca-talleres:arg"
+  },
+  {
+    "start_id": "mert-gunok:1989-03-01",
+    "end_id": "fenerbahce-sk:tur"
+  },
+  {
+    "start_id": "zeki-celik:1997-02-17",
+    "end_id": "as-roma:ita"
+  },
+  {
+    "start_id": "merih-demiral:1998-03-05",
+    "end_id": "al-ahli-fc:ksa"
+  },
+  {
+    "start_id": "caglar-soyuncu:1996-05-23",
+    "end_id": "fenerbahce-sk:tur"
+  },
+  {
+    "start_id": "salih-ozcan:1998-01-11",
+    "end_id": "borussia-dortmund:ger"
+  },
+  {
+    "start_id": "orkun-kokcu:2000-12-29",
+    "end_id": "besiktas-jk:tur"
+  },
+  {
+    "start_id": "kerem-akturkoglu:1998-10-21",
+    "end_id": "fenerbahce-sk:tur"
+  },
+  {
+    "start_id": "arda-guler:2005-02-25",
+    "end_id": "real-madrid-c.-f.:esp"
+  },
+  {
+    "start_id": "deniz-gul:2004-07-02",
+    "end_id": "fc-porto:por"
+  },
+  {
+    "start_id": "hakan-calhanoglu:1994-02-08",
+    "end_id": "fc-internazionale-milano:ita"
+  },
+  {
+    "start_id": "kenan-yıldız:2005-05-04",
+    "end_id": "juventus-fc:ita"
+  },
+  {
+    "start_id": "altay-bayındır:1998-04-14",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "eren-elmalı:2000-07-07",
+    "end_id": "galatasaray-sk:tur"
+  },
+  {
+    "start_id": "abdulkerim-bardakcı:1994-09-07",
+    "end_id": "galatasaray-sk:tur"
+  },
+  {
+    "start_id": "ozan-kabak:2000-03-25",
+    "end_id": "tsg-hoffenheim:ger"
+  },
+  {
+    "start_id": "ismail-yuksek:1999-01-26",
+    "end_id": "fenerbahce-sk:tur"
+  },
+  {
+    "start_id": "irfan-can-kahveci:1995-07-15",
+    "end_id": "kasımpasa-sk:tur"
+  },
+  {
+    "start_id": "mert-muldur:1999-04-03",
+    "end_id": "fenerbahce-sk:tur"
+  },
+  {
+    "start_id": "yunus-akgun:2000-07-07",
+    "end_id": "galatasaray-sk:tur"
+  },
+  {
+    "start_id": "ferdi-kadıoglu:1999-10-07",
+    "end_id": "brighton-&-hove-albion-fc:eng"
+  },
+  {
+    "start_id": "barıs-alper-yılmaz:2000-05-23",
+    "end_id": "galatasaray-sk:tur"
+  },
+  {
+    "start_id": "kaan-ayhan:1994-11-10",
+    "end_id": "galatasaray-sk:tur"
+  },
+  {
+    "start_id": "ugurcan-cakır:1996-04-05",
+    "end_id": "galatasaray-sk:tur"
+  },
+  {
+    "start_id": "oguz-aydın:2000-10-27",
+    "end_id": "fenerbahce-sk:tur"
+  },
+  {
+    "start_id": "samet-akaydin:1994-03-13",
+    "end_id": "caykur-rizespor:tur"
+  },
+  {
+    "start_id": "can-uzun:2005-11-11",
+    "end_id": "eintracht-frankfurt:ger"
+  },
+  {
+    "start_id": "matt-turner:1994-06-24",
+    "end_id": "new-england-revolution:usa"
+  },
+  {
+    "start_id": "sergino-dest:2000-11-03",
+    "end_id": "psv-eindhoven:ned"
+  },
+  {
+    "start_id": "chris-richards:2000-03-28",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "tyler-adams:1999-02-14",
+    "end_id": "afc-bournemouth:eng"
+  },
+  {
+    "start_id": "antonee-robinson:1997-08-08",
+    "end_id": "fulham-fc:eng"
+  },
+  {
+    "start_id": "auston-trusty:1998-08-12",
+    "end_id": "celtic-fc:sco"
+  },
+  {
+    "start_id": "giovanni-reyna:2002-11-13",
+    "end_id": "borussia-monchengladbach:ger"
+  },
+  {
+    "start_id": "weston-mckennie:1998-08-28",
+    "end_id": "juventus-fc:ita"
+  },
+  {
+    "start_id": "ricardo-pepi:2003-01-09",
+    "end_id": "psv-eindhoven:ned"
+  },
+  {
+    "start_id": "christian-pulisic:1998-09-18",
+    "end_id": "ac-milan:ita"
+  },
+  {
+    "start_id": "brenden-aaronson:2000-10-22",
+    "end_id": "leeds-united-fc:eng"
+  },
+  {
+    "start_id": "miles-robinson:1997-03-14",
+    "end_id": "fc-cincinnatti:usa"
+  },
+  {
+    "start_id": "tim-ream:1987-10-05",
+    "end_id": "charlotte-fc:usa"
+  },
+  {
+    "start_id": "sebastian-berhalter:2001-05-10",
+    "end_id": "vancouver-whitecaps-fc:can"
+  },
+  {
+    "start_id": "cristian-roldan:1995-06-03",
+    "end_id": "seattle-sounders-fc:usa"
+  },
+  {
+    "start_id": "alex-freeman:2004-08-09",
+    "end_id": "villarreal-cf:esp"
+  },
+  {
+    "start_id": "malik-tillman:2002-05-28",
+    "end_id": "bayer-04-leverkusen:ger"
+  },
+  {
+    "start_id": "max-arfsten:2001-04-19",
+    "end_id": "columbus-crew:usa"
+  },
+  {
+    "start_id": "haji-wright:1998-03-27",
+    "end_id": "coventry-city-fc:eng"
+  },
+  {
+    "start_id": "folarin-balogun:2001-07-03",
+    "end_id": "as-monaco:fra"
+  },
+  {
+    "start_id": "timothy-weah:2000-02-22",
+    "end_id": "olympique-marseille:fra"
+  },
+  {
+    "start_id": "mark-mckenzie:1999-02-25",
+    "end_id": "toulouse-fc:fra"
+  },
+  {
+    "start_id": "joe-scally:2002-12-31",
+    "end_id": "borussia-monchengladbach:ger"
+  },
+  {
+    "start_id": "matt-freese:1998-09-02",
+    "end_id": "new-york-city-fc:usa"
+  },
+  {
+    "start_id": "chris-brady:2004-03-03",
+    "end_id": "chicago-fire-fc:usa"
+  },
+  {
+    "start_id": "alejandro-zendejas:1998-02-07",
+    "end_id": "club-america:mex"
+  },
+  {
+    "start_id": "eloy-room:1989-02-06",
+    "end_id": "miami-fc:usa"
+  },
+  {
+    "start_id": "shurandy-sambo:2001-08-19",
+    "end_id": "sparta-rotterdam:ned"
+  },
+  {
+    "start_id": "jurien-gaari:1993-12-23",
+    "end_id": "abha-club:ksa"
+  },
+  {
+    "start_id": "roshon-van-eijma:1998-06-09",
+    "end_id": "rkc-waalwijk:ned"
+  },
+  {
+    "start_id": "sherel-floranus:1998-08-23",
+    "end_id": "pec-zwolle:ned"
+  },
+  {
+    "start_id": "godfried-roemeratoe:1999-08-19",
+    "end_id": "rkc-waalwijk:ned"
+  },
+  {
+    "start_id": "juninho-bacuna:1997-08-07",
+    "end_id": "fc-volendam:ned"
+  },
+  {
+    "start_id": "livano-comenencia:2004-02-03",
+    "end_id": "fc-zurich:sui"
+  },
+  {
+    "start_id": "jurgen-locadia:1993-11-07",
+    "end_id": "miami-fc:usa"
+  },
+  {
+    "start_id": "leandro-bacuna:1991-08-21",
+    "end_id": "igdır-fk:tur"
+  },
+  {
+    "start_id": "jeremy-antonisse:2002-03-29",
+    "end_id": "ae-kifisia-fc:gre"
+  },
+  {
+    "start_id": "sontje-hansen:2002-05-18",
+    "end_id": "middlesbrough-fc:eng"
+  },
+  {
+    "start_id": "tyrese-noslin:2002-09-11",
+    "end_id": "sc-telstar:ned"
+  },
+  {
+    "start_id": "kenji-gorre:1994-09-29",
+    "end_id": "maccabi-haifa-fc:isr"
+  },
+  {
+    "start_id": "ar'jany-martha:2003-09-04",
+    "end_id": "rotherham-united-fc:eng"
+  },
+  {
+    "start_id": "jearl-margaritha:2000-04-10",
+    "end_id": "sk-beveren:bel"
+  },
+  {
+    "start_id": "brandley-kuwas:1992-09-19",
+    "end_id": "fc-volendam:ned"
+  },
+  {
+    "start_id": "armando-obispo:1999-03-05",
+    "end_id": "psv-eindhoven:ned"
+  },
+  {
+    "start_id": "gervane-kastaneer:1996-06-09",
+    "end_id": "terengganu-fc:mas"
+  },
+  {
+    "start_id": "joshua-brenet:1994-03-20",
+    "end_id": "kayserispor:tur"
+  },
+  {
+    "start_id": "tahith-chong:1999-12-04",
+    "end_id": "sheffield-united-fc:eng"
+  },
+  {
+    "start_id": "kevin-felida:1999-11-11",
+    "end_id": "fc-den-bosch:ned"
+  },
+  {
+    "start_id": "riechedly-bazoer:1996-10-12",
+    "end_id": "konyaspor:tur"
+  },
+  {
+    "start_id": "deveron-fonville:2003-05-16",
+    "end_id": "nec-nijmegen:ned"
+  },
+  {
+    "start_id": "tyrick-bodak:2002-05-15",
+    "end_id": "sc-telstar:ned"
+  },
+  {
+    "start_id": "trevor-doornbusch:1999-07-06",
+    "end_id": "vvv-venlo:ned"
+  },
+  {
+    "start_id": "hernan-galindez:1987-03-30",
+    "end_id": "ca-huracan:arg"
+  },
+  {
+    "start_id": "felix-torres:1997-01-11",
+    "end_id": "sc-internacional:bra"
+  },
+  {
+    "start_id": "piero-hincapie:2002-01-09",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "joel-ordonez:2004-04-21",
+    "end_id": "club-brugge:bel"
+  },
+  {
+    "start_id": "jordy-alcivar:1999-08-05",
+    "end_id": "independiente-del-valle:ecu"
+  },
+  {
+    "start_id": "willian-pacho:2001-10-16",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "pervis-estupinan:1998-01-21",
+    "end_id": "ac-milan:ita"
+  },
+  {
+    "start_id": "anthony-valencia:2003-07-21",
+    "end_id": "royal-antwerp-fc:bel"
+  },
+  {
+    "start_id": "john-yeboah:2000-06-23",
+    "end_id": "venezia-fc:ita"
+  },
+  {
+    "start_id": "kendry-paez:2007-05-04",
+    "end_id": "ca-river-plate:arg"
+  },
+  {
+    "start_id": "kevin-rodriguez:2000-03-04",
+    "end_id": "royale-union-saint-gilloise:bel"
+  },
+  {
+    "start_id": "moises-ramirez:2000-09-09",
+    "end_id": "ae-kifisia-fc:gre"
+  },
+  {
+    "start_id": "enner-valencia:1989-11-04",
+    "end_id": "cf-pachuca:mex"
+  },
+  {
+    "start_id": "alan-minda:2003-05-14",
+    "end_id": "atletico-mineiro:bra"
+  },
+  {
+    "start_id": "pedro-vite:2002-03-09",
+    "end_id": "pumas-unam:mex"
+  },
+  {
+    "start_id": "jordy-caicedo:1997-11-18",
+    "end_id": "ca-huracan:arg"
+  },
+  {
+    "start_id": "angelo-preciado:1998-02-18",
+    "end_id": "atletico-mineiro:bra"
+  },
+  {
+    "start_id": "denil-castillo:2004-03-24",
+    "end_id": "fc-midtjylland:den"
+  },
+  {
+    "start_id": "gonzalo-plata:2000-11-01",
+    "end_id": "cr-flamengo:bra"
+  },
+  {
+    "start_id": "nilson-angulo:2003-06-19",
+    "end_id": "sunderland-afc:eng"
+  },
+  {
+    "start_id": "alan-franco:1998-08-21",
+    "end_id": "atletico-mineiro:bra"
+  },
+  {
+    "start_id": "gonzalo-valle:1996-02-28",
+    "end_id": "ldu-quito:ecu"
+  },
+  {
+    "start_id": "moises-caicedo:2001-11-02",
+    "end_id": "chelsea-fc:eng"
+  },
+  {
+    "start_id": "jeremy-arevalo:2005-03-19",
+    "end_id": "vfb-stuttgart:ger"
+  },
+  {
+    "start_id": "jackson-porozo:2000-08-04",
+    "end_id": "club-tijuana:mex"
+  },
+  {
+    "start_id": "yaimar-medina:2004-11-05",
+    "end_id": "krc-genk:bel"
+  },
+  {
+    "start_id": "manuel-neuer:1986-03-27",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "antonio-rudiger:1993-03-03",
+    "end_id": "real-madrid-c.-f.:esp"
+  },
+  {
+    "start_id": "waldemar-anton:1996-07-20",
+    "end_id": "borussia-dortmund:ger"
+  },
+  {
+    "start_id": "jonathan-tah:1996-02-11",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "aleksandar-pavlovic:2004-05-03",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "joshua-kimmich:1995-02-08",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "kai-havertz:1999-06-11",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "leon-goretzka:1995-02-06",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "jamie-leweling:2001-02-26",
+    "end_id": "vfb-stuttgart:ger"
+  },
+  {
+    "start_id": "jamal-musiala:2003-02-26",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "nick-woltemade:2002-02-14",
+    "end_id": "newcastle-united-fc:eng"
+  },
+  {
+    "start_id": "oliver-baumann:1990-06-02",
+    "end_id": "tsg-hoffenheim:ger"
+  },
+  {
+    "start_id": "pascal-gross:1991-06-15",
+    "end_id": "brighton-&-hove-albion-fc:eng"
+  },
+  {
+    "start_id": "maximilian-beier:2002-10-17",
+    "end_id": "borussia-dortmund:ger"
+  },
+  {
+    "start_id": "nico-schlotterbeck:1999-12-01",
+    "end_id": "borussia-dortmund:ger"
+  },
+  {
+    "start_id": "angelo-stiller:2001-04-04",
+    "end_id": "vfb-stuttgart:ger"
+  },
+  {
+    "start_id": "florian-wirtz:2003-05-03",
+    "end_id": "liverpool-fc:eng"
+  },
+  {
+    "start_id": "nathaniel-brown:2003-06-16",
+    "end_id": "eintracht-frankfurt:ger"
+  },
+  {
+    "start_id": "leroy-sane:1996-01-11",
+    "end_id": "galatasaray-sk:tur"
+  },
+  {
+    "start_id": "nadiem-amiri:1996-10-27",
+    "end_id": "1.-fsv-mainz-05:ger"
+  },
+  {
+    "start_id": "alexander-nubel:1996-09-30",
+    "end_id": "vfb-stuttgart:ger"
+  },
+  {
+    "start_id": "david-raum:1998-04-22",
+    "end_id": "rb-leipzig:ger"
+  },
+  {
+    "start_id": "felix-nmecha:2000-10-10",
+    "end_id": "borussia-dortmund:ger"
+  },
+  {
+    "start_id": "malick-thiaw:2001-08-08",
+    "end_id": "newcastle-united-fc:eng"
+  },
+  {
+    "start_id": "assan-ouedraogo:2006-05-09",
+    "end_id": "rb-leipzig:ger"
+  },
+  {
+    "start_id": "deniz-undav:1996-07-19",
+    "end_id": "vfb-stuttgart:ger"
+  },
+  {
+    "start_id": "yahia-fofana:2000-08-21",
+    "end_id": "caykur-rizespor:tur"
+  },
+  {
+    "start_id": "ousmane-diomande:2003-12-04",
+    "end_id": "sporting-cp:por"
+  },
+  {
+    "start_id": "ghislain-konan:1995-12-27",
+    "end_id": "gil-vicente-fc:por"
+  },
+  {
+    "start_id": "jean-michael-seri:1991-07-19",
+    "end_id": "nk-maribor:svn"
+  },
+  {
+    "start_id": "wilfried-singo:2000-12-25",
+    "end_id": "galatasaray-sk:tur"
+  },
+  {
+    "start_id": "seko-fofana:1995-05-07",
+    "end_id": "fc-porto:por"
+  },
+  {
+    "start_id": "odilon-kossounou:2001-01-04",
+    "end_id": "atalanta-bergamo:ita"
+  },
+  {
+    "start_id": "franck-kessie:1996-12-19",
+    "end_id": "al-ahli-fc:ksa"
+  },
+  {
+    "start_id": "ange-yoan-bonny:2003-10-25",
+    "end_id": "fc-internazionale-milano:ita"
+  },
+  {
+    "start_id": "simon-adingra:2002-01-01",
+    "end_id": "as-monaco:fra"
+  },
+  {
+    "start_id": "yan-diomande:2006-11-14",
+    "end_id": "rb-leipzig:ger"
+  },
+  {
+    "start_id": "elye-wahi:2003-01-02",
+    "end_id": "ogc-nice:fra"
+  },
+  {
+    "start_id": "christopher-operi:1997-04-29",
+    "end_id": "basaksehir-fk:tur"
+  },
+  {
+    "start_id": "oumar-diakite:2003-12-20",
+    "end_id": "cercle-brugge:bel"
+  },
+  {
+    "start_id": "amad-diallo:2002-07-11",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "mohamed-kone:2002-03-07",
+    "end_id": "sporting-charleroi:bel"
+  },
+  {
+    "start_id": "guela-doue:2002-10-17",
+    "end_id": "rc-strasbourg:fra"
+  },
+  {
+    "start_id": "ibrahim-sangare:1997-12-02",
+    "end_id": "nottingham-forest-fc:eng"
+  },
+  {
+    "start_id": "nicolas-pepe:1995-05-29",
+    "end_id": "villarreal-cf:esp"
+  },
+  {
+    "start_id": "emmanuel-agbadou:1997-06-17",
+    "end_id": "besiktas-jk:tur"
+  },
+  {
+    "start_id": "evan-ndicka:1999-08-20",
+    "end_id": "as-roma:ita"
+  },
+  {
+    "start_id": "evann-guessand:2001-07-01",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "alban-lafont:1999-01-23",
+    "end_id": "panathinaikos-fc:gre"
+  },
+  {
+    "start_id": "bazoumana-toure:2006-03-02",
+    "end_id": "tsg-hoffenheim:ger"
+  },
+  {
+    "start_id": "parfait-guiagon:2001-02-22",
+    "end_id": "sporting-charleroi:bel"
+  },
+  {
+    "start_id": "christ-inao-oulai:2006-04-06",
+    "end_id": "trabzonspor:tur"
+  },
+  {
+    "start_id": "zion-suzuki:2002-08-21",
+    "end_id": "parma:ita"
+  },
+  {
+    "start_id": "yukinari-sugawara:2000-06-28",
+    "end_id": "sv-werder-bremen:ger"
+  },
+  {
+    "start_id": "shogo-taniguchi:1991-07-15",
+    "end_id": "sint-truiden-vv:bel"
+  },
+  {
+    "start_id": "ko-itakura:1997-01-27",
+    "end_id": "afc-ajax:ned"
+  },
+  {
+    "start_id": "yuto-nagatomo:1986-09-12",
+    "end_id": "fc-tokyo:jpn"
+  },
+  {
+    "start_id": "wataru-endo:1993-02-09",
+    "end_id": "borussia-monchengladbach:ger"
+  },
+  {
+    "start_id": "ao-tanaka:1998-09-10",
+    "end_id": "leeds-united-fc:eng"
+  },
+  {
+    "start_id": "takefusa-kubo:2001-06-04",
+    "end_id": "real-sociedad:esp"
+  },
+  {
+    "start_id": "keisuke-goto:2005-06-03",
+    "end_id": "sint-truiden-vv:bel"
+  },
+  {
+    "start_id": "ritsu-doan:1998-06-16",
+    "end_id": "eintracht-frankfurt:ger"
+  },
+  {
+    "start_id": "daizen-maeda:1997-10-20",
+    "end_id": "celtic-fc:sco"
+  },
+  {
+    "start_id": "keisuke-osako:1999-07-28",
+    "end_id": "sanfrecce-hiroshima:jpn"
+  },
+  {
+    "start_id": "keito-nakamura:2000-07-28",
+    "end_id": "stade-reims:fra"
+  },
+  {
+    "start_id": "junya-ito:1993-03-09",
+    "end_id": "krc-genk:bel"
+  },
+  {
+    "start_id": "daichi-kamada:1996-08-05",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "tsuyoshi-watanabe:1997-02-05",
+    "end_id": "feyenoord-rotterdam:ned"
+  },
+  {
+    "start_id": "yuito-suzuki:2001-10-25",
+    "end_id": "sc-freiburg:ger"
+  },
+  {
+    "start_id": "ayase-ueda:1998-08-28",
+    "end_id": "feyenoord-rotterdam:ned"
+  },
+  {
+    "start_id": "koki-ogawa:1997-08-08",
+    "end_id": "nec-nijmegen:ned"
+  },
+  {
+    "start_id": "ayumu-seko:2000-06-07",
+    "end_id": "le-havre-ac:fra"
+  },
+  {
+    "start_id": "hiroki-ito:1999-05-12",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "takehiro-tomiyasu:1998-11-05",
+    "end_id": "afc-ajax:ned"
+  },
+  {
+    "start_id": "tomoki-hayakawa:1999-03-03",
+    "end_id": "kashima-antlers:jpn"
+  },
+  {
+    "start_id": "kaishu-sano:2000-12-30",
+    "end_id": "1.-fsv-mainz-05:ger"
+  },
+  {
+    "start_id": "junnosuke-suzuki:2003-07-12",
+    "end_id": "fc-københavn:den"
+  },
+  {
+    "start_id": "kento-shiogai:2005-03-26",
+    "end_id": "vfl-wolfsburg:ger"
+  },
+  {
+    "start_id": "bart-verbruggen:2002-08-18",
+    "end_id": "brighton-&-hove-albion-fc:eng"
+  },
+  {
+    "start_id": "lutsharel-geertruida:2000-07-18",
+    "end_id": "sunderland-afc:eng"
+  },
+  {
+    "start_id": "marten-de-roon:1991-03-29",
+    "end_id": "atalanta-bergamo:ita"
+  },
+  {
+    "start_id": "virgil-van-dijk:1991-07-08",
+    "end_id": "liverpool-fc:eng"
+  },
+  {
+    "start_id": "nathan-ake:1995-02-18",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "jan-paul-van-hecke:2000-06-08",
+    "end_id": "brighton-&-hove-albion-fc:eng"
+  },
+  {
+    "start_id": "justin-kluivert:1999-05-05",
+    "end_id": "afc-bournemouth:eng"
+  },
+  {
+    "start_id": "ryan-gravenberch:2002-05-16",
+    "end_id": "liverpool-fc:eng"
+  },
+  {
+    "start_id": "wout-weghorst:1992-08-07",
+    "end_id": "afc-ajax:ned"
+  },
+  {
+    "start_id": "memphis-depay:1994-02-13",
+    "end_id": "sc-corinthians:bra"
+  },
+  {
+    "start_id": "cody-gakpo:1999-05-07",
+    "end_id": "liverpool-fc:eng"
+  },
+  {
+    "start_id": "mats-wieffer:1999-11-16",
+    "end_id": "brighton-&-hove-albion-fc:eng"
+  },
+  {
+    "start_id": "robin-roefs:2003-01-17",
+    "end_id": "sunderland-afc:eng"
+  },
+  {
+    "start_id": "tijjani-reijnders:1998-07-29",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "micky-van-de-ven:2001-04-19",
+    "end_id": "tottenham-hotspur-fc:eng"
+  },
+  {
+    "start_id": "guus-til:1997-12-22",
+    "end_id": "psv-eindhoven:ned"
+  },
+  {
+    "start_id": "noa-lang:1999-06-17",
+    "end_id": "galatasaray-sk:tur"
+  },
+  {
+    "start_id": "donyell-malen:1999-01-19",
+    "end_id": "as-roma:ita"
+  },
+  {
+    "start_id": "brian-brobbey:2002-02-01",
+    "end_id": "sunderland-afc:eng"
+  },
+  {
+    "start_id": "teun-koopmeiners:1998-02-28",
+    "end_id": "juventus-fc:ita"
+  },
+  {
+    "start_id": "frenkie-de-jong:1997-05-12",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "denzel-dumfries:1996-04-18",
+    "end_id": "fc-internazionale-milano:ita"
+  },
+  {
+    "start_id": "mark-flekken:1993-06-13",
+    "end_id": "bayer-04-leverkusen:ger"
+  },
+  {
+    "start_id": "crysencio-summerville:2001-10-30",
+    "end_id": "west-ham-united-fc:eng"
+  },
+  {
+    "start_id": "jorrel-hato:2006-03-07",
+    "end_id": "chelsea-fc:eng"
+  },
+  {
+    "start_id": "quinten-timber:2001-06-17",
+    "end_id": "olympique-marseille:fra"
+  },
+  {
+    "start_id": "jacob-widell-zetterstrom:1998-07-11",
+    "end_id": "derby-county-fc:eng"
+  },
+  {
+    "start_id": "gustaf-lagerbielke:2000-04-10",
+    "end_id": "sc-braga:por"
+  },
+  {
+    "start_id": "victor-lindelof:1994-07-17",
+    "end_id": "aston-villa-fc:eng"
+  },
+  {
+    "start_id": "isak-hien:1999-01-13",
+    "end_id": "atalanta-bergamo:ita"
+  },
+  {
+    "start_id": "gabriel-gudmundsson:1999-04-29",
+    "end_id": "leeds-united-fc:eng"
+  },
+  {
+    "start_id": "herman-johansson:1997-10-16",
+    "end_id": "fc-dallas:usa"
+  },
+  {
+    "start_id": "lucas-bergvall:2006-02-02",
+    "end_id": "tottenham-hotspur-fc:eng"
+  },
+  {
+    "start_id": "daniel-svensson:2002-02-12",
+    "end_id": "borussia-dortmund:ger"
+  },
+  {
+    "start_id": "alexander-isak:1999-09-21",
+    "end_id": "liverpool-fc:eng"
+  },
+  {
+    "start_id": "benjamin-nygren:2001-07-08",
+    "end_id": "celtic-fc:sco"
+  },
+  {
+    "start_id": "anthony-elanga:2002-04-27",
+    "end_id": "newcastle-united-fc:eng"
+  },
+  {
+    "start_id": "viktor-johansson:1998-09-14",
+    "end_id": "stoke-city-fc:eng"
+  },
+  {
+    "start_id": "ken-sema:1993-09-30",
+    "end_id": "pafos-fc:cyp"
+  },
+  {
+    "start_id": "hjalmar-ekdal:1998-10-21",
+    "end_id": "burnley-fc:eng"
+  },
+  {
+    "start_id": "carl-starfelt:1995-06-01",
+    "end_id": "rc-celta-vigo:esp"
+  },
+  {
+    "start_id": "jesper-karlstrom:1995-06-21",
+    "end_id": "udinese:ita"
+  },
+  {
+    "start_id": "viktor-gyokeres:1998-06-04",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "yasin-ayari:2003-10-06",
+    "end_id": "brighton-&-hove-albion-fc:eng"
+  },
+  {
+    "start_id": "mattias-svanberg:1999-01-05",
+    "end_id": "vfl-wolfsburg:ger"
+  },
+  {
+    "start_id": "eric-smith:1997-01-08",
+    "end_id": "fc-st.-pauli:ger"
+  },
+  {
+    "start_id": "alexander-bernhardsson:1998-09-08",
+    "end_id": "holstein-kiel:ger"
+  },
+  {
+    "start_id": "besfort-zeneli:2002-11-21",
+    "end_id": "royale-union-saint-gilloise:bel"
+  },
+  {
+    "start_id": "kristoffer-nordfeldt:1989-06-23",
+    "end_id": "aik-stockholm:swe"
+  },
+  {
+    "start_id": "elliot-stroud:2002-06-22",
+    "end_id": "mjallby-aif:swe"
+  },
+  {
+    "start_id": "gustaf-nilsson:1997-05-23",
+    "end_id": "club-brugge:bel"
+  },
+  {
+    "start_id": "taha-ali:1998-07-01",
+    "end_id": "malmo-ff:swe"
+  },
+  {
+    "start_id": "mouhib-chamakh:2001-08-25",
+    "end_id": "club-africain:tun"
+  },
+  {
+    "start_id": "ali-abdi:1993-12-20",
+    "end_id": "ogc-nice:fra"
+  },
+  {
+    "start_id": "montassar-talbi:1998-05-26",
+    "end_id": "fc-lorient:fra"
+  },
+  {
+    "start_id": "omar-rekik:2001-12-20",
+    "end_id": "nk-maribor:svn"
+  },
+  {
+    "start_id": "adem-arous:2004-07-17",
+    "end_id": "kasımpasa-sk:tur"
+  },
+  {
+    "start_id": "dylan-bronn:1995-06-19",
+    "end_id": "servette-fc:sui"
+  },
+  {
+    "start_id": "elias-achouri:1999-02-10",
+    "end_id": "fc-københavn:den"
+  },
+  {
+    "start_id": "elias-saad:1999-12-27",
+    "end_id": "hannover-96:ger"
+  },
+  {
+    "start_id": "hazem-mastouri:1997-06-18",
+    "end_id": "fc-dynamo-makhachkala:rus"
+  },
+  {
+    "start_id": "hannibal-mejbri:2003-01-21",
+    "end_id": "burnley-fc:eng"
+  },
+  {
+    "start_id": "ismael-gharbi:2004-04-10",
+    "end_id": "fc-augsburg:ger"
+  },
+  {
+    "start_id": "mortadha-ben-ouanes:1994-07-02",
+    "end_id": "kasımpasa-sk:tur"
+  },
+  {
+    "start_id": "rani-khedira:1994-01-27",
+    "end_id": "1.-fc-union-berlin:ger"
+  },
+  {
+    "start_id": "khalil-ayari:2005-02-02",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "hadj-mahmoud:2000-04-24",
+    "end_id": "fc-lugano:sui"
+  },
+  {
+    "start_id": "aymen-dahmen:1997-01-28",
+    "end_id": "cs-sfaxien:tun"
+  },
+  {
+    "start_id": "ellyes-skhiri:1995-05-10",
+    "end_id": "eintracht-frankfurt:ger"
+  },
+  {
+    "start_id": "rayan-elloumi:2007-09-17",
+    "end_id": "vancouver-whitecaps-fc:can"
+  },
+  {
+    "start_id": "firas-chaouat:1996-05-08",
+    "end_id": "club-africain:tun"
+  },
+  {
+    "start_id": "yan-valery:1999-02-22",
+    "end_id": "bsc-young-boys:sui"
+  },
+  {
+    "start_id": "mohamed-amine-ben-hamida:1995-12-15",
+    "end_id": "esperance-de-tunisie:tun"
+  },
+  {
+    "start_id": "sabri-ben-hessen:1996-06-13",
+    "end_id": "etoile-du-sahel:tun"
+  },
+  {
+    "start_id": "moutaz-neffati:2004-09-04",
+    "end_id": "ifk-norrkoping-fk:swe"
+  },
+  {
+    "start_id": "raed-chikhaoui:2004-06-09",
+    "end_id": "us-monastir:tun"
+  },
+  {
+    "start_id": "anis-ben-slimane:2001-03-16",
+    "end_id": "norwich-city-fc:eng"
+  },
+  {
+    "start_id": "sebastian-tounekti:2002-07-13",
+    "end_id": "celtic-fc:sco"
+  },
+  {
+    "start_id": "thibaut-courtois:1992-05-11",
+    "end_id": "real-madrid-c.-f.:esp"
+  },
+  {
+    "start_id": "zeno-debast:2003-10-24",
+    "end_id": "sporting-cp:por"
+  },
+  {
+    "start_id": "arthur-theate:2000-05-25",
+    "end_id": "eintracht-frankfurt:ger"
+  },
+  {
+    "start_id": "brandon-mechele:1993-01-28",
+    "end_id": "club-brugge:bel"
+  },
+  {
+    "start_id": "maxim-de-cuyper:2000-12-22",
+    "end_id": "brighton-&-hove-albion-fc:eng"
+  },
+  {
+    "start_id": "axel-witsel:1989-01-12",
+    "end_id": "girona-fc:esp"
+  },
+  {
+    "start_id": "kevin-de-bruyne:1991-06-28",
+    "end_id": "ssc-napoli:ita"
+  },
+  {
+    "start_id": "youri-tielemans:1997-05-07",
+    "end_id": "aston-villa-fc:eng"
+  },
+  {
+    "start_id": "romelu-lukaku:1993-05-13",
+    "end_id": "ssc-napoli:ita"
+  },
+  {
+    "start_id": "leandro-trossard:1994-12-04",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "jeremy-doku:2002-05-27",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "senne-lammens:2002-07-07",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "mike-penders:2005-07-31",
+    "end_id": "rc-strasbourg:fra"
+  },
+  {
+    "start_id": "dodi-lukebakio:1997-09-24",
+    "end_id": "sl-benfica:por"
+  },
+  {
+    "start_id": "thomas-meunier:1991-09-12",
+    "end_id": "lille-osc:fra"
+  },
+  {
+    "start_id": "koni-de-winter:2002-06-12",
+    "end_id": "ac-milan:ita"
+  },
+  {
+    "start_id": "charles-de-ketelaere:2001-03-10",
+    "end_id": "atalanta-bergamo:ita"
+  },
+  {
+    "start_id": "joaquin-seys:2005-03-28",
+    "end_id": "club-brugge:bel"
+  },
+  {
+    "start_id": "diego-moreira:2004-08-06",
+    "end_id": "rc-strasbourg:fra"
+  },
+  {
+    "start_id": "hans-vanaken:1992-08-24",
+    "end_id": "club-brugge:bel"
+  },
+  {
+    "start_id": "timothy-castagne:1995-12-05",
+    "end_id": "fulham-fc:eng"
+  },
+  {
+    "start_id": "alexis-saelemaekers:1999-06-27",
+    "end_id": "ac-milan:ita"
+  },
+  {
+    "start_id": "nicolas-raskin:2001-02-23",
+    "end_id": "rangers-fc:sco"
+  },
+  {
+    "start_id": "amadou-onana:2001-08-16",
+    "end_id": "aston-villa-fc:eng"
+  },
+  {
+    "start_id": "nathan-ngoy:2003-06-10",
+    "end_id": "lille-osc:fra"
+  },
+  {
+    "start_id": "matias-fernandez-pardo:2005-02-03",
+    "end_id": "lille-osc:fra"
+  },
+  {
+    "start_id": "mohamed-el-shenawy:1988-12-18",
+    "end_id": "al-ahly-fc:egy"
+  },
+  {
+    "start_id": "yasser-ibrahim:1993-02-10",
+    "end_id": "al-ahly-fc:egy"
+  },
+  {
+    "start_id": "mohamed-hany:1996-02-02",
+    "end_id": "al-ahly-fc:egy"
+  },
+  {
+    "start_id": "hossam-abdelmaguid:2001-04-30",
+    "end_id": "zamalek-sc:egy"
+  },
+  {
+    "start_id": "ramy-rabia:1993-05-20",
+    "end_id": "al-ain-fc:uae"
+  },
+  {
+    "start_id": "mohamed-abdelmonem:1999-02-01",
+    "end_id": "ogc-nice:fra"
+  },
+  {
+    "start_id": "trezeguet:1994-10-01",
+    "end_id": "al-ahly-fc:egy"
+  },
+  {
+    "start_id": "emam-ashour:1998-02-20",
+    "end_id": "al-ahly-fc:egy"
+  },
+  {
+    "start_id": "hamza-abdelkarim:2008-01-01",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "mohamed-salah:1992-06-15",
+    "end_id": "liverpool-fc:eng"
+  },
+  {
+    "start_id": "mostafa-ziko:1997-04-27",
+    "end_id": "pyramids-fc:egy"
+  },
+  {
+    "start_id": "haissem-hassan:2002-02-08",
+    "end_id": "real-oviedo:esp"
+  },
+  {
+    "start_id": "ahmed-fatouh:1998-03-22",
+    "end_id": "zamalek-sc:egy"
+  },
+  {
+    "start_id": "hamdy-fathy:1994-09-29",
+    "end_id": "al-wakrah-sc:qat"
+  },
+  {
+    "start_id": "karim-hafez:1996-03-12",
+    "end_id": "pyramids-fc:egy"
+  },
+  {
+    "start_id": "el-mahdy-soliman:1987-06-08",
+    "end_id": "zamalek-sc:egy"
+  },
+  {
+    "start_id": "mohanad-lasheen:1996-05-29",
+    "end_id": "pyramids-fc:egy"
+  },
+  {
+    "start_id": "nabil-emad:1996-04-06",
+    "end_id": "al-najmah-sc:ksa"
+  },
+  {
+    "start_id": "marwan-attia:1998-08-01",
+    "end_id": "al-ahly-fc:egy"
+  },
+  {
+    "start_id": "ibrahim-adel:2001-04-23",
+    "end_id": "fc-nordsjælland:den"
+  },
+  {
+    "start_id": "mahmoud-saber:2001-07-30",
+    "end_id": "zed-fc:egy"
+  },
+  {
+    "start_id": "omar-marmoush:1999-02-07",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "mostafa-shobeir:2000-05-15",
+    "end_id": "al-ahly-fc:egy"
+  },
+  {
+    "start_id": "tarek-alaa:2002-01-05",
+    "end_id": "zed-fc:egy"
+  },
+  {
+    "start_id": "zizo:1996-01-10",
+    "end_id": "al-ahly-fc:egy"
+  },
+  {
+    "start_id": "mohamed-alaa:1999-01-01",
+    "end_id": "el-gouna-fc:egy"
+  },
+  {
+    "start_id": "alireza-beiranvand:1992-09-21",
+    "end_id": "tractor-sazi-tabriz-fc:irn"
+  },
+  {
+    "start_id": "saleh-hardani:1998-12-26",
+    "end_id": "esteghlal-tehran-fc:irn"
+  },
+  {
+    "start_id": "ehsan-hajsafi:1990-02-25",
+    "end_id": "sepahan-sc:irn"
+  },
+  {
+    "start_id": "shojae-khalilzadeh:1989-05-14",
+    "end_id": "tractor-sazi-tabriz-fc:irn"
+  },
+  {
+    "start_id": "milad-mohammadi:1993-09-29",
+    "end_id": "persepolis-fc:irn"
+  },
+  {
+    "start_id": "saeid-ezatolahi:1996-10-01",
+    "end_id": "shabab-al-ahli-club:uae"
+  },
+  {
+    "start_id": "alireza-jahanbakhsh:1993-08-11",
+    "end_id": "fcv-dender-eh:bel"
+  },
+  {
+    "start_id": "mohammad-mohebi:1998-12-20",
+    "end_id": "fc-rostov:rus"
+  },
+  {
+    "start_id": "mehdi-taremi:1992-07-18",
+    "end_id": "olympiacos-fc:gre"
+  },
+  {
+    "start_id": "mehdi-ghayedi:1998-12-05",
+    "end_id": "al-nasr-sc:uae"
+  },
+  {
+    "start_id": "ali-alipour:1995-11-11",
+    "end_id": "persepolis-fc:irn"
+  },
+  {
+    "start_id": "payam-niazmand:1995-04-06",
+    "end_id": "persepolis-fc:irn"
+  },
+  {
+    "start_id": "hossein-kanaanizadegan:1994-03-23",
+    "end_id": "persepolis-fc:irn"
+  },
+  {
+    "start_id": "saman-ghoddos:1993-09-06",
+    "end_id": "al-ittihad-kalba-scc:uae"
+  },
+  {
+    "start_id": "rouzbeh-cheshmi:1993-07-24",
+    "end_id": "esteghlal-tehran-fc:irn"
+  },
+  {
+    "start_id": "mehdi-torabi:1994-09-10",
+    "end_id": "tractor-sazi-tabriz-fc:irn"
+  },
+  {
+    "start_id": "aria-yousefi:2002-04-22",
+    "end_id": "sepahan-sc:irn"
+  },
+  {
+    "start_id": "amirhossein-hosseinzadeh:2000-10-30",
+    "end_id": "tractor-sazi-tabriz-fc:irn"
+  },
+  {
+    "start_id": "ali-nemati:1996-02-08",
+    "end_id": "foolad-khuzestan-fc:irn"
+  },
+  {
+    "start_id": "shahriyar-moghanlou:1994-12-21",
+    "end_id": "al-ittihad-kalba-scc:uae"
+  },
+  {
+    "start_id": "mohammad-ghorbani:2001-10-07",
+    "end_id": "al-wahda-sc:uae"
+  },
+  {
+    "start_id": "hossein-hosseini:1992-06-30",
+    "end_id": "sepahan-sc:irn"
+  },
+  {
+    "start_id": "ramin-rezaeian:1990-03-21",
+    "end_id": "foolad-khuzestan-fc:irn"
+  },
+  {
+    "start_id": "dennis-eckert:1997-01-09",
+    "end_id": "standard-liege:bel"
+  },
+  {
+    "start_id": "danial-eiri:2003-10-26",
+    "end_id": "malavan-anzali-fc:irn"
+  },
+  {
+    "start_id": "amirmohammad-razzaghinia:2006-04-11",
+    "end_id": "esteghlal-tehran-fc:irn"
+  },
+  {
+    "start_id": "max-crocombe:1993-08-12",
+    "end_id": "millwall-fc:eng"
+  },
+  {
+    "start_id": "tim-payne:1994-01-10",
+    "end_id": "wellington-phoenix-fc:nzl"
+  },
+  {
+    "start_id": "francis-de-vries:1994-11-28",
+    "end_id": "auckland-fc:nzl"
+  },
+  {
+    "start_id": "tyler-bindon:2005-01-27",
+    "end_id": "sheffield-united-fc:eng"
+  },
+  {
+    "start_id": "michael-boxall:1988-08-18",
+    "end_id": "minnesota-united-fc:usa"
+  },
+  {
+    "start_id": "joe-bell:1999-04-27",
+    "end_id": "viking-stavanger:nor"
+  },
+  {
+    "start_id": "matthew-garbett:2002-04-13",
+    "end_id": "peterborough-united-fc:eng"
+  },
+  {
+    "start_id": "marko-stamenic:2002-02-19",
+    "end_id": "swansea-city-afc:wal"
+  },
+  {
+    "start_id": "chris-wood:1991-12-07",
+    "end_id": "nottingham-forest-fc:eng"
+  },
+  {
+    "start_id": "sarpreet-singh:1999-02-20",
+    "end_id": "wellington-phoenix-fc:nzl"
+  },
+  {
+    "start_id": "elijah-just:2000-05-01",
+    "end_id": "motherwell-fc:sco"
+  },
+  {
+    "start_id": "alex-paulsen:2002-07-04",
+    "end_id": "lechia-gdansk:pol"
+  },
+  {
+    "start_id": "liberato-cacace:2000-09-27",
+    "end_id": "wrexham-afc:wal"
+  },
+  {
+    "start_id": "alex-rufer:1996-06-12",
+    "end_id": "wellington-phoenix-fc:nzl"
+  },
+  {
+    "start_id": "nando-pijnaker:1999-02-25",
+    "end_id": "auckland-fc:nzl"
+  },
+  {
+    "start_id": "finn-surman:2003-09-23",
+    "end_id": "portland-timbers:usa"
+  },
+  {
+    "start_id": "kosta-barbarouses:1990-02-19",
+    "end_id": "ws-wanderers-fc:aus"
+  },
+  {
+    "start_id": "ben-waine:2001-06-11",
+    "end_id": "port-vale-fc:eng"
+  },
+  {
+    "start_id": "ben-old:2002-08-13",
+    "end_id": "as-saint-etienne:fra"
+  },
+  {
+    "start_id": "callum-mccowatt:1999-04-30",
+    "end_id": "silkeborg-if:den"
+  },
+  {
+    "start_id": "jesse-randall:2002-08-19",
+    "end_id": "auckland-fc:nzl"
+  },
+  {
+    "start_id": "michael-woud:1999-01-16",
+    "end_id": "auckland-fc:nzl"
+  },
+  {
+    "start_id": "ryan-thomas:1994-12-20",
+    "end_id": "pec-zwolle:ned"
+  },
+  {
+    "start_id": "callan-elliot:1999-07-07",
+    "end_id": "auckland-fc:nzl"
+  },
+  {
+    "start_id": "lachlan-bayliss:2002-07-24",
+    "end_id": "newcastle-united-jets-fc:aus"
+  },
+  {
+    "start_id": "tommy-smith:1990-03-31",
+    "end_id": "braintree-town-fc:eng"
+  },
+  {
+    "start_id": "vozinha:1986-06-03",
+    "end_id": "gd-chaves:por"
+  },
+  {
+    "start_id": "stopira:1988-05-20",
+    "end_id": "scu-torreense:por"
+  },
+  {
+    "start_id": "diney:1995-01-17",
+    "end_id": "al-bataeh-club:uae"
+  },
+  {
+    "start_id": "roberto-lopes:1992-06-17",
+    "end_id": "shamrock-rovers-fc:irl"
+  },
+  {
+    "start_id": "logan-costa:2001-04-01",
+    "end_id": "villarreal-cf:esp"
+  },
+  {
+    "start_id": "kevin-pina:1997-01-27",
+    "end_id": "fc-krasnodar:rus"
+  },
+  {
+    "start_id": "jovane-cabral:1998-06-14",
+    "end_id": "cf-estrela-da-amadora:por"
+  },
+  {
+    "start_id": "joao-paulo:1998-05-26",
+    "end_id": "fc-fcsb:rou"
+  },
+  {
+    "start_id": "gilson-benchimol:2001-12-29",
+    "end_id": "fc-akron-tolyatti:rus"
+  },
+  {
+    "start_id": "jamiro-monteiro:1993-11-23",
+    "end_id": "pec-zwolle:ned"
+  },
+  {
+    "start_id": "garry-rodrigues:1990-11-27",
+    "end_id": "apollon-limassol:cyp"
+  },
+  {
+    "start_id": "marcio-rosa:1997-02-23",
+    "end_id": "pfc-montana:bul"
+  },
+  {
+    "start_id": "sidny-lopes-cabral:2002-09-18",
+    "end_id": "sl-benfica:por"
+  },
+  {
+    "start_id": "deroy-duarte:1999-07-04",
+    "end_id": "pfc-ludogorets-razgrad:bul"
+  },
+  {
+    "start_id": "laros-duarte:1997-02-28",
+    "end_id": "puskas-akademia-fc:hun"
+  },
+  {
+    "start_id": "yannick-semedo:1995-12-29",
+    "end_id": "sc-farense:por"
+  },
+  {
+    "start_id": "willy-semedo:1994-04-27",
+    "end_id": "ac-omonia:cyp"
+  },
+  {
+    "start_id": "telmo-arcanjo:2001-06-21",
+    "end_id": "vitoria-sc:por"
+  },
+  {
+    "start_id": "dailon-livramento:2001-05-04",
+    "end_id": "casa-pia-ac:por"
+  },
+  {
+    "start_id": "ryan-mendes:1990-01-08",
+    "end_id": "igdır-fk:tur"
+  },
+  {
+    "start_id": "nuno-da-costa:1991-02-10",
+    "end_id": "basaksehir-fk:tur"
+  },
+  {
+    "start_id": "steven-moreira:1994-08-13",
+    "end_id": "columbus-crew:usa"
+  },
+  {
+    "start_id": "cj-dos-santos:2000-08-24",
+    "end_id": "san-diego-fc:usa"
+  },
+  {
+    "start_id": "wagner-pina:2002-11-03",
+    "end_id": "trabzonspor:tur"
+  },
+  {
+    "start_id": "kelvin-pires:2000-06-05",
+    "end_id": "sjk:fin"
+  },
+  {
+    "start_id": "helio-varela:2002-05-03",
+    "end_id": "maccabi-tel-aviv-fc:isr"
+  },
+  {
+    "start_id": "nawaf-al-aqidi:2000-05-10",
+    "end_id": "al-nassr-fc:ksa"
+  },
+  {
+    "start_id": "ali-majrashi:1999-10-02",
+    "end_id": "al-ahli-fc:ksa"
+  },
+  {
+    "start_id": "ali-lajami:1996-04-24",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "abdulelah-al-amri:1997-01-15",
+    "end_id": "al-nassr-fc:ksa"
+  },
+  {
+    "start_id": "hassan-al-tambakti:1999-02-09",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "nasser-al-dawsari:1998-12-19",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "musab-al-juwayr:2003-06-20",
+    "end_id": "al-qadsiah-fc:ksa"
+  },
+  {
+    "start_id": "ayman-yahya:2001-05-14",
+    "end_id": "al-nassr-fc:ksa"
+  },
+  {
+    "start_id": "firas-al-buraikan:2000-05-14",
+    "end_id": "al-ahli-fc:ksa"
+  },
+  {
+    "start_id": "salem-al-dawsari:1991-08-19",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "saleh-al-shehri:1993-11-01",
+    "end_id": "al-ittihad:ksa"
+  },
+  {
+    "start_id": "saud-abdulhamid:1999-07-18",
+    "end_id": "rc-lens:fra"
+  },
+  {
+    "start_id": "nawaf-boushal:1999-09-16",
+    "end_id": "al-nassr-fc:ksa"
+  },
+  {
+    "start_id": "hassan-kadesh:1992-09-26",
+    "end_id": "al-ittihad:ksa"
+  },
+  {
+    "start_id": "abdullah-al-khaibari:1996-08-16",
+    "end_id": "al-nassr-fc:ksa"
+  },
+  {
+    "start_id": "ziyad-al-johani:2001-11-11",
+    "end_id": "al-ahli-fc:ksa"
+  },
+  {
+    "start_id": "khalid-al-ghannam:2000-11-08",
+    "end_id": "al-ettifaq-fc:ksa"
+  },
+  {
+    "start_id": "alaa-al-hejji:1995-12-03",
+    "end_id": "neom-sc:ksa"
+  },
+  {
+    "start_id": "abdullah-al-hamdan:1999-09-13",
+    "end_id": "al-nassr-fc:ksa"
+  },
+  {
+    "start_id": "sultan-mandash:1994-10-17",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "mohammed-al-owais:1991-10-10",
+    "end_id": "al-ula-saudi-fc:ksa"
+  },
+  {
+    "start_id": "ahmed-al-kassar:1991-05-08",
+    "end_id": "al-qadsiah-fc:ksa"
+  },
+  {
+    "start_id": "mohamed-kanno:1994-09-22",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "moteb-al-harbi:2000-02-20",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "jehad-thakri:2001-07-21",
+    "end_id": "al-qadsiah-fc:ksa"
+  },
+  {
+    "start_id": "mohammed-abu-al-shamat:2002-08-11",
+    "end_id": "al-qadsiah-fc:ksa"
+  },
+  {
+    "start_id": "david-raya:1995-09-15",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "marc-pubill:2003-06-20",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "alex-grimaldo:1995-09-20",
+    "end_id": "bayer-04-leverkusen:ger"
+  },
+  {
+    "start_id": "eric-garcia:2001-01-09",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "marcos-llorente:1995-01-30",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "mikel-merino:1996-06-22",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "ferran-torres:2000-02-29",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "fabian-ruiz:1996-04-03",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "gavi:2004-08-05",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "dani-olmo:1998-05-07",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "yeremy-pino:2002-10-20",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "pedro-porro:1999-09-13",
+    "end_id": "tottenham-hotspur-fc:eng"
+  },
+  {
+    "start_id": "joan-garcia:2001-05-04",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "aymeric-laporte:1994-05-27",
+    "end_id": "athletic-club:esp"
+  },
+  {
+    "start_id": "alex-baena:2001-07-20",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "rodri:1996-06-22",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "nico-williams:2002-07-12",
+    "end_id": "athletic-club:esp"
+  },
+  {
+    "start_id": "martin-zubimendi:1999-02-02",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "lamine-yamal:2007-07-13",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "pedri:2002-11-25",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "mikel-oyarzabal:1997-04-21",
+    "end_id": "real-sociedad:esp"
+  },
+  {
+    "start_id": "pau-cubarsi:2007-01-22",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "unai-simon:1997-06-11",
+    "end_id": "athletic-club:esp"
+  },
+  {
+    "start_id": "marc-cucurella:1998-07-22",
+    "end_id": "chelsea-fc:eng"
+  },
+  {
+    "start_id": "victor-munoz:2003-07-13",
+    "end_id": "ca-osasuna:esp"
+  },
+  {
+    "start_id": "borja-iglesias:1993-01-17",
+    "end_id": "rc-celta-vigo:esp"
+  },
+  {
+    "start_id": "sergio-rochet:1993-03-23",
+    "end_id": "sc-internacional:bra"
+  },
+  {
+    "start_id": "jose-gimenez:1995-01-20",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "sebastian-caceres:1999-08-18",
+    "end_id": "club-america:mex"
+  },
+  {
+    "start_id": "ronald-araujo:1999-03-07",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "manuel-ugarte:2001-04-11",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "rodrigo-bentancur:1997-06-25",
+    "end_id": "tottenham-hotspur-fc:eng"
+  },
+  {
+    "start_id": "nicolas-de-la-cruz:1997-06-01",
+    "end_id": "cr-flamengo:bra"
+  },
+  {
+    "start_id": "federico-valverde:1998-07-22",
+    "end_id": "real-madrid-c.-f.:esp"
+  },
+  {
+    "start_id": "darwin-nunez:1999-06-24",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "giorgian-de-arrascaeta:1994-06-01",
+    "end_id": "cr-flamengo:bra"
+  },
+  {
+    "start_id": "facundo-pellistri:2001-12-20",
+    "end_id": "panathinaikos-fc:gre"
+  },
+  {
+    "start_id": "santiago-mele:1997-09-06",
+    "end_id": "cf-monterrey:mex"
+  },
+  {
+    "start_id": "guillermo-varela:1993-03-24",
+    "end_id": "cr-flamengo:bra"
+  },
+  {
+    "start_id": "agustin-canobbio:1998-10-01",
+    "end_id": "fluminense-fc:bra"
+  },
+  {
+    "start_id": "emiliano-martinez:1999-08-17",
+    "end_id": "se-palmeiras:bra"
+  },
+  {
+    "start_id": "mathias-olivera:1997-10-31",
+    "end_id": "ssc-napoli:ita"
+  },
+  {
+    "start_id": "matias-vina:1997-11-09",
+    "end_id": "ca-river-plate:arg"
+  },
+  {
+    "start_id": "brian-rodriguez:2000-05-20",
+    "end_id": "club-america:mex"
+  },
+  {
+    "start_id": "rodrigo-aguirre:1994-10-01",
+    "end_id": "tigres-uanl:mex"
+  },
+  {
+    "start_id": "maximiliano-araujo:2000-02-15",
+    "end_id": "sporting-cp:por"
+  },
+  {
+    "start_id": "federico-vinas:1998-06-30",
+    "end_id": "real-oviedo:esp"
+  },
+  {
+    "start_id": "joaquin-piquerez:1998-08-24",
+    "end_id": "se-palmeiras:bra"
+  },
+  {
+    "start_id": "fernando-muslera:1986-06-16",
+    "end_id": "estudiantes-lp:arg"
+  },
+  {
+    "start_id": "santiago-bueno:1998-11-09",
+    "end_id": "wolverhampton-wanderers-fc:eng"
+  },
+  {
+    "start_id": "juan-manuel-sanabria:2000-03-29",
+    "end_id": "real-salt-lake:usa"
+  },
+  {
+    "start_id": "rodrigo-zalazar:1999-08-12",
+    "end_id": "sc-braga:por"
+  },
+  {
+    "start_id": "brice-samba:1994-04-25",
+    "end_id": "stade-rennais-fc:fra"
+  },
+  {
+    "start_id": "malo-gusto:2003-05-19",
+    "end_id": "chelsea-fc:eng"
+  },
+  {
+    "start_id": "lucas-digne:1993-07-20",
+    "end_id": "aston-villa-fc:eng"
+  },
+  {
+    "start_id": "dayot-upamecano:1998-10-27",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "jules-kounde:1998-11-12",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "manu-kone:2001-05-17",
+    "end_id": "as-roma:ita"
+  },
+  {
+    "start_id": "ousmane-dembele:1997-05-15",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "aurelien-tchouameni:2000-01-27",
+    "end_id": "real-madrid-c.-f.:esp"
+  },
+  {
+    "start_id": "marcus-thuram:1997-08-06",
+    "end_id": "fc-internazionale-milano:ita"
+  },
+  {
+    "start_id": "kylian-mbappe:1998-12-20",
+    "end_id": "real-madrid-c.-f.:esp"
+  },
+  {
+    "start_id": "michael-olise:2001-12-12",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "bradley-barcola:2002-09-02",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "n'golo-kante:1991-03-29",
+    "end_id": "fenerbahce-sk:tur"
+  },
+  {
+    "start_id": "adrien-rabiot:1995-04-03",
+    "end_id": "ac-milan:ita"
+  },
+  {
+    "start_id": "ibrahima-konate:1999-05-25",
+    "end_id": "liverpool-fc:eng"
+  },
+  {
+    "start_id": "mike-maignan:1995-07-03",
+    "end_id": "ac-milan:ita"
+  },
+  {
+    "start_id": "william-saliba:2001-03-24",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "warren-zaire-emery:2006-03-08",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "theo-hernandez:1997-10-06",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "desire-doue:2005-06-03",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "lucas-hernandez:1996-02-14",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "jean-philippe-mateta:1997-06-28",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "robin-risser:2004-12-02",
+    "end_id": "rc-lens:fra"
+  },
+  {
+    "start_id": "rayan-cherki:2003-08-17",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "maghnes-akliouche:2002-02-25",
+    "end_id": "as-monaco:fra"
+  },
+  {
+    "start_id": "maxence-lacroix:2000-04-06",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "fahad-talib:1994-10-21",
+    "end_id": "al-talaba-sc:irq"
+  },
+  {
+    "start_id": "rebin-sulaka:1992-04-12",
+    "end_id": "port-fc:tha"
+  },
+  {
+    "start_id": "hussein-ali:2002-03-01",
+    "end_id": "pogon-szczecin:pol"
+  },
+  {
+    "start_id": "zaid-tahseen:2001-01-29",
+    "end_id": "pakhtakor-tashkent-fk:uzb"
+  },
+  {
+    "start_id": "akam-hashim:1998-08-16",
+    "end_id": "al-zawra'a-sc:irq"
+  },
+  {
+    "start_id": "manaf-younis:1996-11-16",
+    "end_id": "al-shorta-sc:irq"
+  },
+  {
+    "start_id": "youssef-amyn:2003-08-21",
+    "end_id": "aek-larnaca-fc:cyp"
+  },
+  {
+    "start_id": "ibrahim-bayesh:2000-05-01",
+    "end_id": "al-dhafra-scc:uae"
+  },
+  {
+    "start_id": "ali-al-hamadi:2002-03-01",
+    "end_id": "luton-town-fc:eng"
+  },
+  {
+    "start_id": "mohanad-ali:2000-06-20",
+    "end_id": "dibba-fc:uae"
+  },
+  {
+    "start_id": "ahmed-qasem:2003-07-12",
+    "end_id": "nashville-sc:usa"
+  },
+  {
+    "start_id": "jalal-hassan:1991-05-18",
+    "end_id": "al-zawra'a-sc:irq"
+  },
+  {
+    "start_id": "ali-yousif:1996-01-19",
+    "end_id": "al-talaba-sc:irq"
+  },
+  {
+    "start_id": "zidane-iqbal:2003-04-27",
+    "end_id": "fc-utrecht:ned"
+  },
+  {
+    "start_id": "ahmed-maknzi:2001-09-24",
+    "end_id": "al-karma-sc:irq"
+  },
+  {
+    "start_id": "amir-al-ammari:1997-07-27",
+    "end_id": "ks-cracovia:pol"
+  },
+  {
+    "start_id": "ali-jasim:2004-01-20",
+    "end_id": "al-najmah-sc:ksa"
+  },
+  {
+    "start_id": "aymen-hussein:1996-03-22",
+    "end_id": "al-karma-sc:irq"
+  },
+  {
+    "start_id": "kevin-yakob:2000-10-10",
+    "end_id": "aarhus-gf:den"
+  },
+  {
+    "start_id": "aimar-sher:2002-12-20",
+    "end_id": "sarpsborg-08-ff:nor"
+  },
+  {
+    "start_id": "marko-farji:2004-03-16",
+    "end_id": "venezia-fc:ita"
+  },
+  {
+    "start_id": "ahmed-basil:1996-08-19",
+    "end_id": "al-shorta-sc:irq"
+  },
+  {
+    "start_id": "merchas-doski:1999-12-07",
+    "end_id": "fc-viktoria-plzen:cze"
+  },
+  {
+    "start_id": "zaid-ismail:2002-01-03",
+    "end_id": "al-talaba-sc:irq"
+  },
+  {
+    "start_id": "mustafa-saadoon:2001-05-25",
+    "end_id": "al-shorta-sc:irq"
+  },
+  {
+    "start_id": "frans-putros:1993-07-14",
+    "end_id": "persib-bandung:idn"
+  },
+  {
+    "start_id": "ørjan-nyland:1990-09-10",
+    "end_id": "sevilla-fc:esp"
+  },
+  {
+    "start_id": "morten-thorsby:1996-05-05",
+    "end_id": "us-cremonese:ita"
+  },
+  {
+    "start_id": "kristoffer-ajer:1998-04-17",
+    "end_id": "brentford-fc:eng"
+  },
+  {
+    "start_id": "leo-østigard:1999-11-28",
+    "end_id": "genoa-cfc:ita"
+  },
+  {
+    "start_id": "david-møller-wolfe:2002-04-23",
+    "end_id": "wolverhampton-wanderers-fc:eng"
+  },
+  {
+    "start_id": "patrick-berg:1997-11-24",
+    "end_id": "fk-bodø/glimt:nor"
+  },
+  {
+    "start_id": "alexander-sørloth:1995-12-05",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "sander-berge:1998-02-14",
+    "end_id": "fulham-fc:eng"
+  },
+  {
+    "start_id": "erling-haaland:2000-07-21",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "martin-ødegaard:1998-12-17",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "jørgen-strand-larsen:2000-02-06",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "sander-tangvik:2002-11-29",
+    "end_id": "hamburger-sv:ger"
+  },
+  {
+    "start_id": "egil-selvik:1997-07-30",
+    "end_id": "watford-fc:eng"
+  },
+  {
+    "start_id": "fredrik-aursnes:1995-12-10",
+    "end_id": "sl-benfica:por"
+  },
+  {
+    "start_id": "fredrik-andre-bjørkan:1998-08-21",
+    "end_id": "fk-bodø/glimt:nor"
+  },
+  {
+    "start_id": "marcus-holmgren-pedersen:2000-07-16",
+    "end_id": "torino-fc:ita"
+  },
+  {
+    "start_id": "torbjørn-heggem:1999-01-12",
+    "end_id": "bologna-fc:ita"
+  },
+  {
+    "start_id": "kristian-thorstvedt:1999-03-13",
+    "end_id": "us-sassuolo:ita"
+  },
+  {
+    "start_id": "thelo-aasgaard:2002-05-02",
+    "end_id": "rangers-fc:sco"
+  },
+  {
+    "start_id": "antonio-nusa:2005-04-17",
+    "end_id": "rb-leipzig:ger"
+  },
+  {
+    "start_id": "andreas-schjelderup:2004-06-01",
+    "end_id": "sl-benfica:por"
+  },
+  {
+    "start_id": "oscar-bobb:2003-07-12",
+    "end_id": "fulham-fc:eng"
+  },
+  {
+    "start_id": "jens-petter-hauge:1999-10-12",
+    "end_id": "fk-bodø/glimt:nor"
+  },
+  {
+    "start_id": "sondre-langas:2001-02-02",
+    "end_id": "derby-county-fc:eng"
+  },
+  {
+    "start_id": "henrik-falchener:2003-05-08",
+    "end_id": "viking-stavanger:nor"
+  },
+  {
+    "start_id": "julian-ryerson:1997-11-17",
+    "end_id": "borussia-dortmund:ger"
+  },
+  {
+    "start_id": "yehvann-diouf:1999-11-16",
+    "end_id": "ogc-nice:fra"
+  },
+  {
+    "start_id": "mamadou-sarr:2005-08-29",
+    "end_id": "chelsea-fc:eng"
+  },
+  {
+    "start_id": "kalidou-koulibaly:1991-06-20",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "abdoulaye-seck:1992-06-04",
+    "end_id": "maccabi-haifa-fc:isr"
+  },
+  {
+    "start_id": "idrissa-gueye:1989-09-26",
+    "end_id": "everton-fc:eng"
+  },
+  {
+    "start_id": "pathe-ciss:1994-03-16",
+    "end_id": "rayo-vallecano:esp"
+  },
+  {
+    "start_id": "assane-diao:2005-09-07",
+    "end_id": "como:ita"
+  },
+  {
+    "start_id": "lamine-camara:2004-01-01",
+    "end_id": "as-monaco:fra"
+  },
+  {
+    "start_id": "bamba-dieng:2000-03-23",
+    "end_id": "fc-lorient:fra"
+  },
+  {
+    "start_id": "sadio-mane:1992-04-10",
+    "end_id": "al-nassr-fc:ksa"
+  },
+  {
+    "start_id": "nicolas-jackson:2001-06-20",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "cherif-ndiaye:1996-01-23",
+    "end_id": "samsunspor:tur"
+  },
+  {
+    "start_id": "iliman-ndiaye:2000-03-06",
+    "end_id": "everton-fc:eng"
+  },
+  {
+    "start_id": "ismail-jakobs:1999-08-17",
+    "end_id": "galatasaray-sk:tur"
+  },
+  {
+    "start_id": "krepin-diatta:1999-02-25",
+    "end_id": "as-monaco:fra"
+  },
+  {
+    "start_id": "edouard-mendy:1992-03-01",
+    "end_id": "al-ahli-fc:ksa"
+  },
+  {
+    "start_id": "pape-matar-sarr:2002-09-14",
+    "end_id": "tottenham-hotspur-fc:eng"
+  },
+  {
+    "start_id": "ismaila-sarr:1998-02-25",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "moussa-niakhate:1996-03-08",
+    "end_id": "olympique-lyonnais:fra"
+  },
+  {
+    "start_id": "ibrahim-mbaye:2008-01-24",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "habib-diarra:2004-01-03",
+    "end_id": "sunderland-afc:eng"
+  },
+  {
+    "start_id": "bara-sapoko-ndiaye:2007-12-31",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "mory-diaw:1993-06-22",
+    "end_id": "le-havre-ac:fra"
+  },
+  {
+    "start_id": "antoine-mendy:2004-05-27",
+    "end_id": "ogc-nice:fra"
+  },
+  {
+    "start_id": "el-hadji-malick-diouf:2004-12-29",
+    "end_id": "west-ham-united-fc:eng"
+  },
+  {
+    "start_id": "pape-gueye:1999-01-24",
+    "end_id": "villarreal-cf:esp"
+  },
+  {
+    "start_id": "melvin-mastil:2000-02-19",
+    "end_id": "fc-stade-nyonnais:sui"
+  },
+  {
+    "start_id": "aissa-mandi:1991-10-22",
+    "end_id": "lille-osc:fra"
+  },
+  {
+    "start_id": "achref-abada:1999-06-15",
+    "end_id": "usm-alger:alg"
+  },
+  {
+    "start_id": "mohamed-amine-tougai:2000-01-22",
+    "end_id": "esperance-de-tunisie:tun"
+  },
+  {
+    "start_id": "zineddine-belaid:1999-03-20",
+    "end_id": "js-kabylie:alg"
+  },
+  {
+    "start_id": "ramiz-zerrouki:1998-05-26",
+    "end_id": "fc-twente:ned"
+  },
+  {
+    "start_id": "riyad-mahrez:1991-02-21",
+    "end_id": "al-ahli-fc:ksa"
+  },
+  {
+    "start_id": "houssem-aouar:1998-06-30",
+    "end_id": "al-ittihad:ksa"
+  },
+  {
+    "start_id": "amine-gouiri:2000-02-16",
+    "end_id": "olympique-marseille:fra"
+  },
+  {
+    "start_id": "fares-chaibi:2002-11-28",
+    "end_id": "eintracht-frankfurt:ger"
+  },
+  {
+    "start_id": "anis-hadj-moussa:2002-02-11",
+    "end_id": "feyenoord-rotterdam:ned"
+  },
+  {
+    "start_id": "nadhir-benbouali:2000-04-17",
+    "end_id": "gyori-eto-fc:hun"
+  },
+  {
+    "start_id": "jaouen-hadjam:2003-03-26",
+    "end_id": "bsc-young-boys:sui"
+  },
+  {
+    "start_id": "hicham-boudaoui:1999-09-23",
+    "end_id": "ogc-nice:fra"
+  },
+  {
+    "start_id": "rayan-ait-nouri:2001-06-06",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "oussama-benbot:1994-10-11",
+    "end_id": "usm-alger:alg"
+  },
+  {
+    "start_id": "rafik-belghali:2002-06-07",
+    "end_id": "hellas-verona-fc:ita"
+  },
+  {
+    "start_id": "mohamed-amoura:2000-05-09",
+    "end_id": "vfl-wolfsburg:ger"
+  },
+  {
+    "start_id": "nabil-bentaleb:1994-11-24",
+    "end_id": "lille-osc:fra"
+  },
+  {
+    "start_id": "adil-boulbina:2003-05-02",
+    "end_id": "al-duhail-sc:qat"
+  },
+  {
+    "start_id": "ramy-bensebaini:1995-04-16",
+    "end_id": "borussia-dortmund:ger"
+  },
+  {
+    "start_id": "ibrahim-maza:2005-11-24",
+    "end_id": "bayer-04-leverkusen:ger"
+  },
+  {
+    "start_id": "luca-zidane:1998-05-13",
+    "end_id": "granada-cf:esp"
+  },
+  {
+    "start_id": "yacine-titraoui:2003-08-26",
+    "end_id": "sporting-charleroi:bel"
+  },
+  {
+    "start_id": "fares-ghedjemis:2002-09-06",
+    "end_id": "frosinone:ita"
+  },
+  {
+    "start_id": "samir-chergui:1999-02-06",
+    "end_id": "paris-fc:fra"
+  },
+  {
+    "start_id": "juan-musso:1994-05-06",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "marcos-nicolas-senesi-baron:1997-05-10",
+    "end_id": "afc-bournemouth:eng"
+  },
+  {
+    "start_id": "nicolas-tagliafico:1992-08-31",
+    "end_id": "olympique-lyonnais:fra"
+  },
+  {
+    "start_id": "gonzalo-montiel:1997-01-01",
+    "end_id": "ca-river-plate:arg"
+  },
+  {
+    "start_id": "leandro-paredes:1994-06-29",
+    "end_id": "ca-boca-juniors:arg"
+  },
+  {
+    "start_id": "lisandro-martinez:1998-01-18",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "rodrigo-de-paul:1994-05-24",
+    "end_id": "inter-miami-cf:usa"
+  },
+  {
+    "start_id": "valentin-barco:2004-07-23",
+    "end_id": "rc-strasbourg:fra"
+  },
+  {
+    "start_id": "julian-alvarez:2000-01-31",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "lionel-messi:1987-06-24",
+    "end_id": "inter-miami-cf:usa"
+  },
+  {
+    "start_id": "giovani-lo-celso:1996-04-09",
+    "end_id": "real-betis:esp"
+  },
+  {
+    "start_id": "geronimo-rulli:1992-05-20",
+    "end_id": "olympique-marseille:fra"
+  },
+  {
+    "start_id": "cristian-romero:1998-04-27",
+    "end_id": "tottenham-hotspur-fc:eng"
+  },
+  {
+    "start_id": "exequiel-palacios:1998-10-05",
+    "end_id": "bayer-04-leverkusen:ger"
+  },
+  {
+    "start_id": "nicolas-gonzalez:1998-04-06",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "thiago-almada:2001-04-26",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "giuliano-simeone:2002-12-18",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "nico-paz:2004-09-08",
+    "end_id": "como:ita"
+  },
+  {
+    "start_id": "nicolas-otamendi:1988-02-12",
+    "end_id": "sl-benfica:por"
+  },
+  {
+    "start_id": "alexis-mac-allister:1998-12-24",
+    "end_id": "liverpool-fc:eng"
+  },
+  {
+    "start_id": "jose-manuel-lopez:2000-12-06",
+    "end_id": "se-palmeiras:bra"
+  },
+  {
+    "start_id": "lautaro-martinez:1997-08-22",
+    "end_id": "fc-internazionale-milano:ita"
+  },
+  {
+    "start_id": "emiliano-martinez:1992-09-02",
+    "end_id": "aston-villa-fc:eng"
+  },
+  {
+    "start_id": "enzo-fernandez:2001-01-17",
+    "end_id": "chelsea-fc:eng"
+  },
+  {
+    "start_id": "facundo-medina:1999-05-28",
+    "end_id": "olympique-marseille:fra"
+  },
+  {
+    "start_id": "nahuel-molina:1998-04-06",
+    "end_id": "atletico-de-madrid:esp"
+  },
+  {
+    "start_id": "alexander-schlager:1996-02-01",
+    "end_id": "fc-red-bull-salzburg:aut"
+  },
+  {
+    "start_id": "david-affengruber:2001-03-19",
+    "end_id": "elche-cf:esp"
+  },
+  {
+    "start_id": "kevin-danso:1998-09-19",
+    "end_id": "tottenham-hotspur-fc:eng"
+  },
+  {
+    "start_id": "xaver-schlager:1997-09-28",
+    "end_id": "rb-leipzig:ger"
+  },
+  {
+    "start_id": "stefan-posch:1997-05-14",
+    "end_id": "1.-fsv-mainz-05:ger"
+  },
+  {
+    "start_id": "nicolas-seiwald:2001-05-04",
+    "end_id": "rb-leipzig:ger"
+  },
+  {
+    "start_id": "marko-arnautovic:1989-04-19",
+    "end_id": "fk-crvena-zvezda:srb"
+  },
+  {
+    "start_id": "david-alaba:1992-06-24",
+    "end_id": "real-madrid-c.-f.:esp"
+  },
+  {
+    "start_id": "marcel-sabitzer:1994-03-17",
+    "end_id": "borussia-dortmund:ger"
+  },
+  {
+    "start_id": "florian-grillitsch:1995-08-07",
+    "end_id": "sc-braga:por"
+  },
+  {
+    "start_id": "michael-gregoritsch:1994-04-18",
+    "end_id": "fc-augsburg:ger"
+  },
+  {
+    "start_id": "florian-wiegele:2001-03-21",
+    "end_id": "fc-viktoria-plzen:cze"
+  },
+  {
+    "start_id": "patrick-pentz:1997-01-02",
+    "end_id": "brøndby-if:den"
+  },
+  {
+    "start_id": "sasa-kalajdzic:1997-07-07",
+    "end_id": "lask-linz:aut"
+  },
+  {
+    "start_id": "philipp-lienhart:1996-07-11",
+    "end_id": "sc-freiburg:ger"
+  },
+  {
+    "start_id": "phillipp-mwene:1994-01-29",
+    "end_id": "1.-fsv-mainz-05:ger"
+  },
+  {
+    "start_id": "carney-chukwuemeka:2003-10-20",
+    "end_id": "borussia-dortmund:ger"
+  },
+  {
+    "start_id": "romano-schmid:2000-01-27",
+    "end_id": "sv-werder-bremen:ger"
+  },
+  {
+    "start_id": "dejan-ljubicic:1997-10-08",
+    "end_id": "fc-schalke-04:ger"
+  },
+  {
+    "start_id": "konrad-laimer:1997-05-27",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "patrick-wimmer:2001-05-30",
+    "end_id": "vfl-wolfsburg:ger"
+  },
+  {
+    "start_id": "alexander-prass:2001-05-26",
+    "end_id": "tsg-hoffenheim:ger"
+  },
+  {
+    "start_id": "marco-friedl:1998-03-16",
+    "end_id": "sv-werder-bremen:ger"
+  },
+  {
+    "start_id": "paul-wanner:2005-12-23",
+    "end_id": "psv-eindhoven:ned"
+  },
+  {
+    "start_id": "michael-svoboda:1998-10-15",
+    "end_id": "venezia-fc:ita"
+  },
+  {
+    "start_id": "alessandro-schopf:1994-02-07",
+    "end_id": "wolfsberger-ac:aut"
+  },
+  {
+    "start_id": "yazeed-abulaila:1993-01-08",
+    "end_id": "al-hussein-sc:jor"
+  },
+  {
+    "start_id": "mohammad-abu-hashish:1995-05-09",
+    "end_id": "al-karma-sc:irq"
+  },
+  {
+    "start_id": "abdallah-nasib:1994-02-25",
+    "end_id": "al-zawra'a-sc:irq"
+  },
+  {
+    "start_id": "husam-abu-dahab:2000-05-13",
+    "end_id": "al-faisaly-sc:jor"
+  },
+  {
+    "start_id": "yazan-al-arab:1996-01-31",
+    "end_id": "fc-seoul:kor"
+  },
+  {
+    "start_id": "amer-jamous:2002-07-03",
+    "end_id": "al-zawra'a-sc:irq"
+  },
+  {
+    "start_id": "mohammad-abu-zrayq:1997-12-30",
+    "end_id": "raja-casablanca:mar"
+  },
+  {
+    "start_id": "noor-al-rawabdeh:1997-02-24",
+    "end_id": "selangor-fc:mas"
+  },
+  {
+    "start_id": "ali-olwan:2000-03-26",
+    "end_id": "al-sailiya-sc:qat"
+  },
+  {
+    "start_id": "musa-al-taamari:1997-06-10",
+    "end_id": "stade-rennais-fc:fra"
+  },
+  {
+    "start_id": "odeh-al-fakhouri:2005-11-22",
+    "end_id": "pyramids-fc:egy"
+  },
+  {
+    "start_id": "nour-bani-attiah:1993-01-25",
+    "end_id": "al-faisaly-sc:jor"
+  },
+  {
+    "start_id": "mahmoud-al-mardi:1993-10-06",
+    "end_id": "al-hussein-sc:jor"
+  },
+  {
+    "start_id": "rajaei-ayed:1993-07-25",
+    "end_id": "al-hussein-sc:jor"
+  },
+  {
+    "start_id": "ibrahim-sadeh:2000-04-27",
+    "end_id": "al-karma-sc:irq"
+  },
+  {
+    "start_id": "mo-abualnadi:2001-02-08",
+    "end_id": "selangor-fc:mas"
+  },
+  {
+    "start_id": "salim-obaid:1992-01-17",
+    "end_id": "al-hussein-sc:jor"
+  },
+  {
+    "start_id": "mohammad-ahmed-mohammad-taha:2005-07-13",
+    "end_id": "al-hussein-sc:jor"
+  },
+  {
+    "start_id": "saed-al-rosan:1997-02-01",
+    "end_id": "al-hussein-sc:jor"
+  },
+  {
+    "start_id": "mohannad-abu-taha:2003-02-02",
+    "end_id": "al-quwa-al-jawiya:irq"
+  },
+  {
+    "start_id": "nizar-al-rashdan:1999-03-23",
+    "end_id": "qatar-sc:qat"
+  },
+  {
+    "start_id": "abdallah-al-fakhouri:2000-01-22",
+    "end_id": "al-wahdat-sc:jor"
+  },
+  {
+    "start_id": "ihsan-haddad:1994-02-05",
+    "end_id": "al-hussein-sc:jor"
+  },
+  {
+    "start_id": "ali-azaizeh:2004-04-13",
+    "end_id": "al-shabab-fc:ksa"
+  },
+  {
+    "start_id": "mohammad-al-dawoud:1992-04-12",
+    "end_id": "al-wahdat-sc:jor"
+  },
+  {
+    "start_id": "anas-badawi:1997-09-13",
+    "end_id": "al-faisaly-sc:jor"
+  },
+  {
+    "start_id": "david-ospina:1988-08-31",
+    "end_id": "atletico-nacional:col"
+  },
+  {
+    "start_id": "daniel-munoz:1996-05-26",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "jhon-lucumi:1998-06-26",
+    "end_id": "bologna-fc:ita"
+  },
+  {
+    "start_id": "santiago-arias:1992-01-13",
+    "end_id": "ca-independiente:arg"
+  },
+  {
+    "start_id": "kevin-castano:2000-09-29",
+    "end_id": "ca-river-plate:arg"
+  },
+  {
+    "start_id": "richard-rios:2000-06-02",
+    "end_id": "sl-benfica:por"
+  },
+  {
+    "start_id": "luis-diaz:1997-01-13",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "jorge-carrascal:1998-05-25",
+    "end_id": "cr-flamengo:bra"
+  },
+  {
+    "start_id": "jhon-cordoba:1993-05-11",
+    "end_id": "fc-krasnodar:rus"
+  },
+  {
+    "start_id": "james-rodriguez:1991-07-12",
+    "end_id": "minnesota-united-fc:usa"
+  },
+  {
+    "start_id": "jhon-arias:1997-09-21",
+    "end_id": "se-palmeiras:bra"
+  },
+  {
+    "start_id": "camilo-vargas:1989-03-09",
+    "end_id": "atlas-fc:mex"
+  },
+  {
+    "start_id": "yerry-mina:1994-09-23",
+    "end_id": "cagliari:ita"
+  },
+  {
+    "start_id": "gustavo-puerta:2003-07-23",
+    "end_id": "racing-santander:esp"
+  },
+  {
+    "start_id": "juan-portilla:1998-09-12",
+    "end_id": "athletico-paranaense:bra"
+  },
+  {
+    "start_id": "jefferson-lerma:1994-10-25",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "johan-mojica:1992-08-21",
+    "end_id": "rcd-mallorca:esp"
+  },
+  {
+    "start_id": "willer-ditta:1998-01-23",
+    "end_id": "cf-cruz-azul:mex"
+  },
+  {
+    "start_id": "cucho-hernandez:1999-04-20",
+    "end_id": "real-betis:esp"
+  },
+  {
+    "start_id": "juan-fernando-quintero:1993-01-18",
+    "end_id": "ca-river-plate:arg"
+  },
+  {
+    "start_id": "jaminton-campaz:2000-05-24",
+    "end_id": "ca-rosario-central:arg"
+  },
+  {
+    "start_id": "deiver-machado:1993-09-02",
+    "end_id": "fc-nantes:fra"
+  },
+  {
+    "start_id": "davinson-sanchez:1996-06-12",
+    "end_id": "galatasaray-sk:tur"
+  },
+  {
+    "start_id": "alvaro-montero:1995-03-29",
+    "end_id": "ca-velez-sarsfield:arg"
+  },
+  {
+    "start_id": "luis-suarez:1997-12-02",
+    "end_id": "sporting-cp:por"
+  },
+  {
+    "start_id": "andres-gomez:2002-09-12",
+    "end_id": "cr-vasco-da-gama:bra"
+  },
+  {
+    "start_id": "lionel-mpasi:1994-08-01",
+    "end_id": "le-havre-ac:fra"
+  },
+  {
+    "start_id": "aaron-wan-bissaka:1997-11-26",
+    "end_id": "west-ham-united-fc:eng"
+  },
+  {
+    "start_id": "steve-kapuadi:1998-04-30",
+    "end_id": "widzew-łodz:pol"
+  },
+  {
+    "start_id": "axel-tuanzebe:1997-11-14",
+    "end_id": "burnley-fc:eng"
+  },
+  {
+    "start_id": "dylan-batubinsika:1996-02-15",
+    "end_id": "ael-fc:gre"
+  },
+  {
+    "start_id": "ngal'ayel-mukau:2004-11-03",
+    "end_id": "lille-osc:fra"
+  },
+  {
+    "start_id": "nathanael-mbuku:2002-03-16",
+    "end_id": "montpellier-hsc:fra"
+  },
+  {
+    "start_id": "samuel-moutoussamy:1996-08-12",
+    "end_id": "atromitos-fc:gre"
+  },
+  {
+    "start_id": "brian-cipenga:1998-03-11",
+    "end_id": "cd-castellon:esp"
+  },
+  {
+    "start_id": "theo-bongonda:1995-11-20",
+    "end_id": "fc-spartak-moscow:rus"
+  },
+  {
+    "start_id": "gael-kakuta:1991-06-21",
+    "end_id": "ael-fc:gre"
+  },
+  {
+    "start_id": "joris-kayembe:1994-08-08",
+    "end_id": "krc-genk:bel"
+  },
+  {
+    "start_id": "meschak-elia:1997-08-06",
+    "end_id": "alanyaspor:tur"
+  },
+  {
+    "start_id": "noah-sadiki:2004-12-17",
+    "end_id": "sunderland-afc:eng"
+  },
+  {
+    "start_id": "aaron-tshibola:1995-01-02",
+    "end_id": "kilmarnock-fc:sco"
+  },
+  {
+    "start_id": "timothy-fayulu:1999-07-24",
+    "end_id": "fc-noah:arm"
+  },
+  {
+    "start_id": "cedric-bakambu:1991-04-11",
+    "end_id": "real-betis:esp"
+  },
+  {
+    "start_id": "charles-pickel:1997-05-15",
+    "end_id": "rcd-espanyol:esp"
+  },
+  {
+    "start_id": "fiston-mayele:1994-06-24",
+    "end_id": "pyramids-fc:egy"
+  },
+  {
+    "start_id": "yoane-wissa:1996-09-03",
+    "end_id": "newcastle-united-fc:eng"
+  },
+  {
+    "start_id": "matthieu-epolo:2005-01-15",
+    "end_id": "standard-liege:bel"
+  },
+  {
+    "start_id": "chancel-mbemba:1994-08-08",
+    "end_id": "lille-osc:fra"
+  },
+  {
+    "start_id": "simon-banza:1996-08-13",
+    "end_id": "al-jazira:uae"
+  },
+  {
+    "start_id": "gedeon-kalulu:1997-08-29",
+    "end_id": "aris-limassol-fc:cyp"
+  },
+  {
+    "start_id": "edo-kayembe:1998-06-03",
+    "end_id": "watford-fc:eng"
+  },
+  {
+    "start_id": "arthur-masuaku:1993-11-07",
+    "end_id": "rc-lens:fra"
+  },
+  {
+    "start_id": "diogo-costa:1999-09-19",
+    "end_id": "fc-porto:por"
+  },
+  {
+    "start_id": "nelson-semedo:1993-11-16",
+    "end_id": "fenerbahce-sk:tur"
+  },
+  {
+    "start_id": "ruben-dias:1997-05-14",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "tomas-araujo:2002-05-16",
+    "end_id": "sl-benfica:por"
+  },
+  {
+    "start_id": "diogo-dalot:1999-03-18",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "matheus-nunes:1998-08-27",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "cristiano-ronaldo:1985-02-05",
+    "end_id": "al-nassr-fc:ksa"
+  },
+  {
+    "start_id": "bruno-fernandes:1994-09-08",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "goncalo-ramos:2001-06-20",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "bernardo-silva:1994-08-10",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "joao-felix:1999-11-10",
+    "end_id": "al-nassr-fc:ksa"
+  },
+  {
+    "start_id": "jose-sa:1993-01-17",
+    "end_id": "wolverhampton-wanderers-fc:eng"
+  },
+  {
+    "start_id": "renato-veiga:2003-07-29",
+    "end_id": "villarreal-cf:esp"
+  },
+  {
+    "start_id": "goncalo-inacio:2001-08-25",
+    "end_id": "sporting-cp:por"
+  },
+  {
+    "start_id": "joao-neves:2004-09-27",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "francisco-trincao:1999-12-29",
+    "end_id": "sporting-cp:por"
+  },
+  {
+    "start_id": "rafael-leao:1999-06-10",
+    "end_id": "ac-milan:ita"
+  },
+  {
+    "start_id": "pedro-neto:2000-03-09",
+    "end_id": "chelsea-fc:eng"
+  },
+  {
+    "start_id": "goncalo-guedes:1996-11-29",
+    "end_id": "real-sociedad:esp"
+  },
+  {
+    "start_id": "joao-cancelo:1994-05-27",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "ruben-neves:1997-03-13",
+    "end_id": "al-hilal-sc:ksa"
+  },
+  {
+    "start_id": "rui-silva:1994-02-07",
+    "end_id": "sporting-cp:por"
+  },
+  {
+    "start_id": "vitinha:2000-02-13",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "samu-costa:2000-11-27",
+    "end_id": "rcd-mallorca:esp"
+  },
+  {
+    "start_id": "nuno-mendes:2002-06-19",
+    "end_id": "paris-saint-germain:fra"
+  },
+  {
+    "start_id": "francisco-conceicao:2002-12-14",
+    "end_id": "juventus-fc:ita"
+  },
+  {
+    "start_id": "utkir-yusupov:1991-01-04",
+    "end_id": "pfc-navbahor-namangan:uzb"
+  },
+  {
+    "start_id": "abdukodir-khusanov:2004-02-29",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "khojiakbar-alijonov:1997-04-19",
+    "end_id": "pakhtakor-tashkent-fk:uzb"
+  },
+  {
+    "start_id": "farrukh-sayfiev:1991-01-17",
+    "end_id": "fk-neftchi-farg'ona:uzb"
+  },
+  {
+    "start_id": "rustam-ashurmatov:1996-07-07",
+    "end_id": "esteghlal-tehran-fc:irn"
+  },
+  {
+    "start_id": "akmal-mozgovoy:1999-04-02",
+    "end_id": "pakhtakor-tashkent-fk:uzb"
+  },
+  {
+    "start_id": "otabek-shukurov:1996-06-22",
+    "end_id": "baniyas-club:uae"
+  },
+  {
+    "start_id": "jamshid-iskanderov:1993-10-16",
+    "end_id": "fk-neftchi-farg'ona:uzb"
+  },
+  {
+    "start_id": "odiljon-hamrobekov:1996-02-13",
+    "end_id": "tractor-sazi-tabriz-fc:irn"
+  },
+  {
+    "start_id": "jaloliddin-masharipov:1993-09-01",
+    "end_id": "esteghlal-tehran-fc:irn"
+  },
+  {
+    "start_id": "oston-urunov:2000-12-19",
+    "end_id": "persepolis-fc:irn"
+  },
+  {
+    "start_id": "abduvohid-nematov:2001-03-20",
+    "end_id": "nasaf-qarshi-fc:uzb"
+  },
+  {
+    "start_id": "sherzod-nasrullaev:1998-07-23",
+    "end_id": "pakhtakor-tashkent-fk:uzb"
+  },
+  {
+    "start_id": "eldor-shomurodov:1995-06-29",
+    "end_id": "basaksehir-fk:tur"
+  },
+  {
+    "start_id": "umar-eshmurodov:1992-11-30",
+    "end_id": "nasaf-qarshi-fc:uzb"
+  },
+  {
+    "start_id": "botirali-ergashev:1995-06-23",
+    "end_id": "fk-neftchi-farg'ona:uzb"
+  },
+  {
+    "start_id": "dostonbek-khamdamov:1996-07-24",
+    "end_id": "pakhtakor-tashkent-fk:uzb"
+  },
+  {
+    "start_id": "abdulla-abdullaev:1997-09-01",
+    "end_id": "dibba-fc:uae"
+  },
+  {
+    "start_id": "azizjon-ganiev:1998-02-22",
+    "end_id": "al-bataeh-club:uae"
+  },
+  {
+    "start_id": "azizbek-amonov:1997-10-30",
+    "end_id": "fk-dinamo-samarkand:uzb"
+  },
+  {
+    "start_id": "igor-sergeev:1993-04-30",
+    "end_id": "persepolis-fc:irn"
+  },
+  {
+    "start_id": "abbosbek-fayzullaev:2003-10-03",
+    "end_id": "basaksehir-fk:tur"
+  },
+  {
+    "start_id": "sherzod-esanov:2003-02-01",
+    "end_id": "fk-buxoro:uzb"
+  },
+  {
+    "start_id": "bekhruz-karimov:2007-08-07",
+    "end_id": "surkhon-fk:uzb"
+  },
+  {
+    "start_id": "avazbek-ulmasaliev:2000-03-27",
+    "end_id": "okmk-fk:uzb"
+  },
+  {
+    "start_id": "jakhongir-urozov:2004-01-18",
+    "end_id": "fk-dinamo-samarkand:uzb"
+  },
+  {
+    "start_id": "dominik-livakovic:1995-01-09",
+    "end_id": "gnk-dinamo-zagreb:cro"
+  },
+  {
+    "start_id": "josip-stanisic:2000-04-02",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "marin-pongracic:1997-09-11",
+    "end_id": "acf-fiorentina:ita"
+  },
+  {
+    "start_id": "josko-gvardiol:2002-01-23",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "duje-caleta-car:1996-09-17",
+    "end_id": "real-sociedad:esp"
+  },
+  {
+    "start_id": "josip-sutalo:2000-02-28",
+    "end_id": "afc-ajax:ned"
+  },
+  {
+    "start_id": "nikola-moro:1998-03-12",
+    "end_id": "bologna-fc:ita"
+  },
+  {
+    "start_id": "mateo-kovacic:1994-05-06",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "andrej-kramaric:1991-06-19",
+    "end_id": "tsg-hoffenheim:ger"
+  },
+  {
+    "start_id": "luka-modric:1985-09-09",
+    "end_id": "ac-milan:ita"
+  },
+  {
+    "start_id": "ante-budimir:1991-07-22",
+    "end_id": "ca-osasuna:esp"
+  },
+  {
+    "start_id": "ivor-pandur:2000-03-25",
+    "end_id": "hull-city-fc:eng"
+  },
+  {
+    "start_id": "nikola-vlasic:1997-10-04",
+    "end_id": "torino-fc:ita"
+  },
+  {
+    "start_id": "ivan-perisic:1989-02-02",
+    "end_id": "psv-eindhoven:ned"
+  },
+  {
+    "start_id": "mario-pasalic:1995-02-09",
+    "end_id": "atalanta-bergamo:ita"
+  },
+  {
+    "start_id": "martin-baturina:2003-02-16",
+    "end_id": "como:ita"
+  },
+  {
+    "start_id": "petar-sucic:2003-10-25",
+    "end_id": "fc-internazionale-milano:ita"
+  },
+  {
+    "start_id": "kristijan-jakic:1997-05-14",
+    "end_id": "fc-augsburg:ger"
+  },
+  {
+    "start_id": "toni-fruk:2001-03-09",
+    "end_id": "hnk-rijeka:cro"
+  },
+  {
+    "start_id": "igor-matanovic:2003-03-31",
+    "end_id": "sc-freiburg:ger"
+  },
+  {
+    "start_id": "luka-sucic:2002-09-08",
+    "end_id": "real-sociedad:esp"
+  },
+  {
+    "start_id": "luka-vuskovic:2007-02-24",
+    "end_id": "hamburger-sv:ger"
+  },
+  {
+    "start_id": "dominik-kotarski:2000-02-10",
+    "end_id": "fc-københavn:den"
+  },
+  {
+    "start_id": "marco-pasalic:2000-09-14",
+    "end_id": "orlando-city-sc:usa"
+  },
+  {
+    "start_id": "martin-erlic:1998-01-24",
+    "end_id": "fc-midtjylland:den"
+  },
+  {
+    "start_id": "petar-musa:1998-03-04",
+    "end_id": "fc-dallas:usa"
+  },
+  {
+    "start_id": "jordan-pickford:1994-03-07",
+    "end_id": "everton-fc:eng"
+  },
+  {
+    "start_id": "ezri-konsa:1997-10-23",
+    "end_id": "aston-villa-fc:eng"
+  },
+  {
+    "start_id": "nico-o'reilly:2005-03-21",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "declan-rice:1999-01-14",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "john-stones:1994-05-28",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "marc-guehi:2000-07-13",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "bukayo-saka:2001-09-05",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "elliot-anderson:2002-11-06",
+    "end_id": "nottingham-forest-fc:eng"
+  },
+  {
+    "start_id": "harry-kane:1993-07-28",
+    "end_id": "fc-bayern-munchen:ger"
+  },
+  {
+    "start_id": "jude-bellingham:2003-06-29",
+    "end_id": "real-madrid-c.-f.:esp"
+  },
+  {
+    "start_id": "marcus-rashford:1997-10-31",
+    "end_id": "fc-barcelona:esp"
+  },
+  {
+    "start_id": "tino-livramento:2002-11-12",
+    "end_id": "newcastle-united-fc:eng"
+  },
+  {
+    "start_id": "dean-henderson:1997-03-12",
+    "end_id": "crystal-palace-fc:eng"
+  },
+  {
+    "start_id": "jordan-henderson:1990-06-17",
+    "end_id": "brentford-fc:eng"
+  },
+  {
+    "start_id": "dan-burn:1992-05-09",
+    "end_id": "newcastle-united-fc:eng"
+  },
+  {
+    "start_id": "kobbie-mainoo:2005-04-19",
+    "end_id": "manchester-united-fc:eng"
+  },
+  {
+    "start_id": "morgan-rogers:2002-07-26",
+    "end_id": "aston-villa-fc:eng"
+  },
+  {
+    "start_id": "anthony-gordon:2001-02-24",
+    "end_id": "newcastle-united-fc:eng"
+  },
+  {
+    "start_id": "ollie-watkins:1995-12-30",
+    "end_id": "aston-villa-fc:eng"
+  },
+  {
+    "start_id": "noni-madueke:2002-03-10",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "eberechi-eze:1998-06-29",
+    "end_id": "arsenal-fc:eng"
+  },
+  {
+    "start_id": "ivan-toney:1996-03-16",
+    "end_id": "al-ahli-fc:ksa"
+  },
+  {
+    "start_id": "james-trafford:2002-10-10",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "reece-james:1999-12-08",
+    "end_id": "chelsea-fc:eng"
+  },
+  {
+    "start_id": "djed-spence:2000-08-09",
+    "end_id": "tottenham-hotspur-fc:eng"
+  },
+  {
+    "start_id": "jarell-quansah:2003-01-29",
+    "end_id": "bayer-04-leverkusen:ger"
+  },
+  {
+    "start_id": "lawrence-ati-zigi:1996-11-29",
+    "end_id": "fc-st.-gallen:sui"
+  },
+  {
+    "start_id": "alidu-seidu:2000-06-04",
+    "end_id": "stade-rennais-fc:fra"
+  },
+  {
+    "start_id": "caleb-yirenkyi:2006-01-15",
+    "end_id": "fc-nordsjælland:den"
+  },
+  {
+    "start_id": "jonas-adjetey:2003-12-13",
+    "end_id": "vfl-wolfsburg:ger"
+  },
+  {
+    "start_id": "thomas-partey:1993-06-13",
+    "end_id": "villarreal-cf:esp"
+  },
+  {
+    "start_id": "abdul-mumin:1998-06-06",
+    "end_id": "rayo-vallecano:esp"
+  },
+  {
+    "start_id": "abdul-fatawu:2004-03-08",
+    "end_id": "leicester-city-fc:eng"
+  },
+  {
+    "start_id": "kwasi-sibo:1998-06-24",
+    "end_id": "real-oviedo:esp"
+  },
+  {
+    "start_id": "jordan-ayew:1991-09-11",
+    "end_id": "leicester-city-fc:eng"
+  },
+  {
+    "start_id": "brandon-thomas-asante:1998-12-29",
+    "end_id": "coventry-city-fc:eng"
+  },
+  {
+    "start_id": "antoine-semenyo:2000-01-07",
+    "end_id": "manchester-city-fc:eng"
+  },
+  {
+    "start_id": "joseph-anang:2000-06-08",
+    "end_id": "st-patrick's-athletic-fc:irl"
+  },
+  {
+    "start_id": "christopher-bonsu-baah:2004-12-14",
+    "end_id": "al-qadsiah-fc:ksa"
+  },
+  {
+    "start_id": "gideon-mensah:1998-07-18",
+    "end_id": "aj-auxerre:fra"
+  },
+  {
+    "start_id": "elisha-owusu:1997-11-07",
+    "end_id": "aj-auxerre:fra"
+  },
+  {
+    "start_id": "benjamin-asare:1992-07-13",
+    "end_id": "hearts-of-oak-sc:gha"
+  },
+  {
+    "start_id": "abdul-rahman-baba:1994-07-02",
+    "end_id": "paok-saloniki:gre"
+  },
+  {
+    "start_id": "jerome-opoku:1998-10-14",
+    "end_id": "basaksehir-fk:tur"
+  },
+  {
+    "start_id": "inaki-williams:1994-06-15",
+    "end_id": "athletic-club:esp"
+  },
+  {
+    "start_id": "augustine-boakye:2000-11-03",
+    "end_id": "as-saint-etienne:fra"
+  },
+  {
+    "start_id": "kojo-peprah-oppong:2004-06-04",
+    "end_id": "ogc-nice:fra"
+  },
+  {
+    "start_id": "kamaldeen-sulemana:2002-02-15",
+    "end_id": "atalanta-bergamo:ita"
+  },
+  {
+    "start_id": "derrick-luckassen:1995-07-03",
+    "end_id": "pafos-fc:cyp"
+  },
+  {
+    "start_id": "ernest-nuamah:2003-11-01",
+    "end_id": "olympique-lyonnais:fra"
+  },
+  {
+    "start_id": "prince-kwabena-adu:2003-09-23",
+    "end_id": "fc-viktoria-plzen:cze"
+  },
+  {
+    "start_id": "marvin-senaya:2001-01-28",
+    "end_id": "aj-auxerre:fra"
+  },
+  {
+    "start_id": "luis-mejia:1991-03-16",
+    "end_id": "club-nacional:uru"
+  },
+  {
+    "start_id": "cesar-blackman:1998-04-02",
+    "end_id": "sk-slovan-bratislava:svk"
+  },
+  {
+    "start_id": "jose-cordoba:2001-06-03",
+    "end_id": "norwich-city-fc:eng"
+  },
+  {
+    "start_id": "fidel-escobar:1995-01-09",
+    "end_id": "deportivo-saprissa:crc"
+  },
+  {
+    "start_id": "edgardo-farina:2001-10-19",
+    "end_id": "fc-pari-nizhny-novgorod:rus"
+  },
+  {
+    "start_id": "cristian-martinez:1997-02-06",
+    "end_id": "hapoel-kiryat-shmona-fc:isr"
+  },
+  {
+    "start_id": "jose-luis-rodriguez:1998-06-19",
+    "end_id": "fc-juarez:mex"
+  },
+  {
+    "start_id": "adalberto-carrasquilla:1998-11-28",
+    "end_id": "pumas-unam:mex"
+  },
+  {
+    "start_id": "tomas-rodriguez:1999-03-09",
+    "end_id": "deportivo-saprissa:crc"
+  },
+  {
+    "start_id": "ismael-diaz:1997-05-12",
+    "end_id": "club-leon:mex"
+  },
+  {
+    "start_id": "yoel-barcenas:1993-10-23",
+    "end_id": "mazatlan-fc:mex"
+  },
+  {
+    "start_id": "cesar-samudio:1994-02-23",
+    "end_id": "cd-marathon:hon"
+  },
+  {
+    "start_id": "jiovany-ramos:1997-01-26",
+    "end_id": "puerto-cabello-cf:ven"
+  },
+  {
+    "start_id": "carlos-harvey:2000-02-03",
+    "end_id": "minnesota-united-fc:usa"
+  },
+  {
+    "start_id": "eric-davis:1991-03-31",
+    "end_id": "cd-plaza-amador:pan"
+  },
+  {
+    "start_id": "andres-andrade:1998-10-16",
+    "end_id": "lask-linz:aut"
+  },
+  {
+    "start_id": "jose-fajardo:1993-08-18",
+    "end_id": "cd-universidad-catolica:ecu"
+  },
+  {
+    "start_id": "cecilio-waterman:1991-04-13",
+    "end_id": "cd-universidad-de-concepcion:chi"
+  },
+  {
+    "start_id": "alberto-quintero:1987-12-18",
+    "end_id": "cd-plaza-amador:pan"
+  },
+  {
+    "start_id": "anibal-godoy:1990-02-10",
+    "end_id": "san-diego-fc:usa"
+  },
+  {
+    "start_id": "cesar-yanis:1996-01-28",
+    "end_id": "cd-cobresal:chi"
+  },
+  {
+    "start_id": "orlando-mosquera:1994-12-25",
+    "end_id": "al-fayha-fc:ksa"
+  },
+  {
+    "start_id": "michael-amir-murillo:1996-02-11",
+    "end_id": "besiktas-jk:tur"
+  },
+  {
+    "start_id": "azarias-londono:2001-06-21",
+    "end_id": "cd-universidad-catolica:ecu"
+  },
+  {
+    "start_id": "roderick-miller:1992-04-03",
+    "end_id": "turan-tovuz:aze"
+  },
+  {
+    "start_id": "jorge-gutierrez:1998-09-01",
+    "end_id": "deportivo-la-guaira:ven"
+  }
+]

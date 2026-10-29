@@ -1,0 +1,116 @@
+services:
+  dozzle:
+    container_name: dozzle
+    image: amir20/dozzle:v10.6.15
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - dozzle_data:/data
+    ports:
+      - "127.0.0.1:8080:8080"
+
+  neo4j:
+    container_name: neo4j
+    image: neo4j:2026.08.1-enterprise
+    ports:
+      - "127.0.0.1:7474:7474"
+      - "127.0.0.1:7687:7687"
+    environment:
+      NEO4J_ACCEPT_LICENSE_AGREEMENT: "yes"
+      NEO4J_AUTH: neo4j/${NEO4J_BOOTSTRAP_PASSWORD:-worldcup_bootstrap_password}
+      # The healthcheck authenticates over Bolt, so it needs the same pair the
+      # image consumed for NEO4J_AUTH. These carry no NEO4J_ prefix because the
+      # image treats every NEO4J_* variable as a server configuration key.
+      HEALTHCHECK_USERNAME: neo4j
+      HEALTHCHECK_PASSWORD: ${NEO4J_BOOTSTRAP_PASSWORD:-worldcup_bootstrap_password}
+    volumes:
+      - neo4j_data:/data
+      - neo4j_logs:/logs
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          'cypher-shell -a bolt://localhost:7687 -u "$${HEALTHCHECK_USERNAME:-neo4j}" -p "$${HEALTHCHECK_PASSWORD:-worldcup_bootstrap_password}" ''RETURN 1''',
+        ]
+      interval: 10s
+      start_interval: 2s
+      timeout: 10s
+      retries: 10
+      start_period: 30s
+    restart: unless-stopped
+
+  neo4j-eval:
+    container_name: neo4j-eval
+    image: neo4j:2026.08.1-enterprise
+    ports:
+      - "127.0.0.1:7475:7474"
+      - "127.0.0.1:7688:7687"
+    environment:
+      NEO4J_ACCEPT_LICENSE_AGREEMENT: "yes"
+      # Distinct admin credentials keep the evaluation service unadministrable
+      # with the development password. Runtime reader and writer identities are
+      # created per service by `poe bootstrap` from the shared credential pairs.
+      NEO4J_AUTH: neo4j/${NEO4J_EVAL_BOOTSTRAP_PASSWORD:-worldcup_eval_bootstrap_password}
+      HEALTHCHECK_USERNAME: neo4j
+      HEALTHCHECK_PASSWORD: ${NEO4J_EVAL_BOOTSTRAP_PASSWORD:-worldcup_eval_bootstrap_password}
+    volumes:
+      - neo4j_eval_data:/data
+      - neo4j_eval_logs:/logs
+    healthcheck:
+      test:
+        [
+          "CMD-SHELL",
+          'cypher-shell -a bolt://localhost:7687 -u "$${HEALTHCHECK_USERNAME:-neo4j}" -p "$${HEALTHCHECK_PASSWORD:-worldcup_eval_bootstrap_password}" ''RETURN 1''',
+        ]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+    restart: unless-stopped
+
+  langgraph:
+    container_name: langgraph
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: local
+    ports:
+      - "127.0.0.1:2024:2024"
+    environment:
+      LANGSMITH_API_KEY: ${LANGSMITH_API_KEY:-}
+      LANGSMITH_PROJECT: ${LANGSMITH_PROJECT:-}
+      # In-network endpoint for this service. Host usage is bolt://localhost:7687
+      # for development and bolt://localhost:7688 for evaluation.
+      NEO4J_URI: bolt://neo4j:7687
+      NEO4J_BOOTSTRAP_PASSWORD: ${NEO4J_BOOTSTRAP_PASSWORD:-worldcup_bootstrap_password}
+      NEO4J_READER_PASSWORD: ${NEO4J_READER_PASSWORD:-worldcup_reader_password}
+      NEO4J_WRITER_PASSWORD: ${NEO4J_WRITER_PASSWORD:-worldcup_writer_password}
+      PYTHONPATH: /app/src
+    volumes:
+      - ./src:/app/src
+      - ./assets/data:/app/assets/data:ro
+      - ./langgraph.json:/app/langgraph.json:ro
+      - ./.env:/app/.env:ro
+      # Runtime ownership/thread/run records are separate from Neo4j checkpoints.
+      - langgraph_data:/app/.langgraph_api
+    depends_on:
+      neo4j:
+        condition: service_healthy
+    restart: unless-stopped
+    healthcheck:
+      interval: 15s
+      timeout: 5s
+      retries: 10
+      start_period: 40s
+      test:
+        - "CMD-SHELL"
+        - >
+          python -c "import urllib.request;
+          urllib.request.urlopen('http://localhost:2024/ok')"
+
+volumes:
+  dozzle_data:
+  neo4j_data:
+  neo4j_logs:
+  neo4j_eval_data:
+  neo4j_eval_logs:
+  langgraph_data:

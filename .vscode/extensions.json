@@ -1,0 +1,16 @@
+{
+  "recommendations": [
+    // Lint
+    "charliermarsh.ruff",
+    "DavidAnson.vscode-markdownlint",
+    // Format
+    "darkriszty.markdown-table-prettify",
+    "redhat.vscode-yaml",
+    "tamasfe.even-better-toml",
+    // Spelling
+    "streetsidesoftware.code-spell-checker",
+    // Python
+    "ms-python.python",
+    "meta.pyrefly",
+  ]
+}

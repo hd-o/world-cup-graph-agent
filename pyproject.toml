@@ -1,0 +1,220 @@
+[project]
+    name = "worldcup-agent"
+    version = "0.1.0"
+    description = "Agentic Graph chatbot for football data"
+    readme = "README.md"
+    requires-python = ">=3.14"
+    dependencies = [
+        "aiomisc>=18,<19",
+        "deepagents>=0.7.15,<1",
+        "exa-py>=2.22.2",
+        "langchain[mcp]>=1.3,<2",
+        "langchain-core>=1.6.4,<2",
+        "langchain-neo4j>=0.10,<1",
+        "langchain-openrouter>=0.2.7,<1",
+        "langgraph>=1.2.11,<2",
+        "langgraph-checkpoint>=4.2,<5",
+        "httpx==0.28.1",
+        "openrouter==0.10.8",
+        "python-dotenv==1.2.4",
+        "neo4j>=6.1,<7",
+        "pydantic>=2.13.4,<3",
+        "pydantic-settings>=2.14.2,<3",
+        "structlog>=25.5,<26",
+    ]
+
+[dependency-groups]
+    prod = [
+        "langsmith[otel]>=0.10.10,<1",
+        "opentelemetry-api==1.44.0",
+        "opentelemetry-sdk==1.44.0",
+        "opentelemetry-exporter-otlp-proto-http==1.44.0",
+    ]
+    aws = [
+        { include-group = "prod" },
+        "bedrock-agentcore==1.22.0",
+        "aws-opentelemetry-distro==0.21.0",
+        "boto3==1.43.111",
+        "PyJWT[crypto]==2.15.1",
+        "cryptography==50.0.1",
+    ]
+    gcp = [
+        { include-group = "prod" },
+        { include-group = "web" },
+        "google-cloud-secret-manager==2.31.0",
+        "google-auth==2.57.0",
+        "requests==2.34.2",
+    ]
+    web = [
+        "fastapi==0.143.0",
+        "uvicorn==0.52.4",
+        "opentelemetry-instrumentation-asgi==0.65b0",
+    ]
+    gateway = [
+        { include-group = "web" },
+        "firebase-admin==7.7.0",
+        "httpx==0.28.1",
+        "google-auth==2.57.0",
+        "requests==2.34.2",
+        "opentelemetry-api==1.44.0",
+        "opentelemetry-sdk==1.44.0",
+        "opentelemetry-exporter-otlp-proto-http==1.44.0",
+    ]
+    infrastructure = [
+        "typer>=0.20,<1",
+        "rich>=15,<16",
+        "questionary>=2,<3",
+        "aws-cdk-lib==2.273.0",
+        "constructs==10.8.1",
+        "google-cloud-storage==3.13.1",
+    ]
+    dev = [
+        "ipykernel>=6,<8",
+        "langgraph-cli[inmem]>=0.4,<1",
+        "langgraph-sdk==0.4.4",
+        "langsmith[otel,pytest]>=0.10.10,<1",
+        "openevals>=0.2,<1",
+        "poethepoet>=0.48,<1",
+        "pre-commit>=4.6.1,<5",
+        "pynb-cli>=0.0.10",
+        "pyrefly>=1.3.1",
+        "pytest>=9.1,<10",
+        "pytest-asyncio>=1.4,<2",
+        "rich[jupyter]>=15.0.0",
+        "ruff>=0.16.5,<1",
+    ]
+
+[tool.poe]
+    env = { PYTHONPATH = "src" }
+
+[tool.poe.tasks."setup"]
+    help = "Setup pre-commit hooks and `.env`"
+    sequence = [
+        { cmd = "cp --update=none .env.example .env" },
+        { cmd = "uv run pre-commit install" },
+    ]
+
+[tool.poe.tasks."dev"]
+    help = "Start dev containers; after changing Dockerfile, run with --build"
+    cmd = "docker compose up -d"
+
+[tool.poe.tasks.aws]
+    help = "AWS operator commands"
+    cmd = "python -m scripts.aws.manage"
+
+[tool.poe.tasks.gcp]
+    help = "GCP operator commands"
+    cmd = "python -m scripts.gcp.manage"
+
+[tool.poe.tasks."down"]
+    help = "Stop dev containers"
+    cmd = "docker compose down"
+
+[tool.poe.tasks.bootstrap]
+    help = "Provision graph and checkpoint databases, users, schemas, and seed data"
+    cmd = "python -m world_cup_graph_agent.infrastructure.neo4j.bootstrap"
+
+[tool.poe.tasks.reset]
+    help = "Recreate dev containers and volumes, then bootstrap the databases"
+    sequence = [
+        { cmd = "docker compose down -v" },
+        { ref = "dev" },
+        { ref = "bootstrap" },
+    ]
+
+[tool.poe.tasks."lint"]
+    help = "Lint py files"
+    cmd = "ruff check --fix ."
+
+[tool.poe.tasks."typecheck"]
+    help = "Type check py files"
+    cmd = "pyrefly check"
+
+[tool.poe.tasks."eval"]
+    help = "Run local evals"
+    cmd = "python -m pytest"
+
+[tool.poe.tasks."eval-fast"]
+    help = "Run the FIFA-code grounded scenario"
+    cmd = "poe eval -m fast"
+
+[tool.poe.tasks."logs"]
+    help = "Follow docker compose logs"
+    cmd = "docker compose logs -f"
+
+[tool.poe.tasks."reload"]
+    help = "Apply .env/config changes: restart compose (Neo4j checkpoints persist)"
+    cmd = "docker compose restart"
+
+[build-system]
+    requires = ["hatchling"]
+    build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+    packages = ["src/world_cup_graph_agent"]
+
+[tool.uv]
+    package = true
+    default-groups = ["dev", "aws", "gcp", "gateway", "infrastructure"]
+
+[tool.ruff]
+    src = ["src"]
+    target-version = "py314"
+
+[tool.pytest.ini_options]
+    # Stream live model/tool logs; import noun-named modules without package files.
+    addopts = "--capture=no --import-mode=importlib"
+    testpaths = ["evals"]
+    python_files = ["scenarios.py", "access.py", "credentials.py"]
+    asyncio_mode = "auto"
+    asyncio_default_fixture_loop_scope = "session"
+    asyncio_default_test_loop_scope = "session"
+    markers = [
+        "adapters: local SDK/checkpointer hosted-policy integration",
+        "hosted: explicitly selected public cloud deployment evals",
+        "fast: the FIFA-code grounded scenario",
+        "grounded: factual answers grounded in graph reads",
+        "enrichment: research and mutation approval scenarios",
+        "access: live server authentication and conversation isolation",
+        "credentials: per-user model credential wiring without inference",
+    ]
+
+[tool.ruff.lint]
+    select = [
+        "B",       # flake8-bugbear
+        "E",       # pycodestyle errors
+        "F",       # pyflakes
+        "FURB",    # refurb
+        "I",       # isort
+        "PLW0603", # global-statement ban
+        "RUF",     # ruff-specific rules
+        "SIM",     # flake8-simplify
+        "UP",      # pyupgrade
+        "W",       # pycodestyle warnings
+    ]
+    ignore = []
+
+[tool.ruff.lint.isort]
+    known-first-party = ["evals", "world_cup_graph_agent"]
+    lines-after-imports = 2
+    no-sections = true
+
+[tool.ruff.format]
+    quote-style = "double"
+    indent-style = "space"
+    line-ending = "lf"
+
+# For pylance vscode extension
+[tool.pyright]
+    include = ["src", "evals", "scripts", "deploy"]
+    extraPaths = ["."]
+    pythonVersion = "3.14"
+    venvPath = "."
+    venv = ".venv"
+    typeCheckingMode = "standard"
+
+[tool.pyrefly]
+    project-includes = ["src", "evals", "scripts", "deploy"]
+    search-path = ["."]
+    python-version = "3.14"
+    python-interpreter-path = ".venv/bin/python"

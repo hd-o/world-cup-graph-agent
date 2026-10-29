@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Test, coverage, and lint caches
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Environment and secrets
+.env
+.envrc
+deploy/target.env
+deploy/**/.terraform/
+deploy/**/*.tfstate*
+deploy/**/*.tfplan
+deploy/**/cdk.out/
+deploy/**/cdk.context.json
+deploy/outputs/
+deploy/artifacts/
+deploy/requirements-*.txt
+deploy/private/
+
+# Devcontainer tool data
+.data/
+
+# LangGraph local checkpoints
+.langgraph_api/
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+
+node_modules/
+
+# Logs
+*.log
+logs/
+
+# Editor and OS
+.DS_Store
+.idea/*
+.obsidian/*
+.temp/*
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.agents/.skills
+*.sw?
+
+logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dev-debug.log
+# Playwright CLI output (may contain credentials)
+.playwright/
+.playwright-cli/

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "bc-place:vancouver",
+    "capacity": 54000,
+    "city": "Vancouver",
+    "country_code": "ca",
+    "name": "BC Place"
+  },
+  {
+    "id": "lumen-field:seattle",
+    "capacity": 69000,
+    "city": "Seattle",
+    "country_code": "us",
+    "name": "Lumen Field"
+  },
+  {
+    "id": "levi's-stadium:san-francisco-bay-area-(santa-clara)",
+    "capacity": 71000,
+    "city": "San Francisco Bay Area (Santa Clara)",
+    "country_code": "us",
+    "name": "Levi's Stadium"
+  },
+  {
+    "id": "sofi-stadium:los-angeles-(inglewood)",
+    "capacity": 70000,
+    "city": "Los Angeles (Inglewood)",
+    "country_code": "us",
+    "name": "SoFi Stadium"
+  },
+  {
+    "id": "estadio-akron:guadalajara-(zapopan)",
+    "capacity": 48000,
+    "city": "Guadalajara (Zapopan)",
+    "country_code": "mx",
+    "name": "Estadio Akron"
+  },
+  {
+    "id": "estadio-azteca:mexico-city",
+    "capacity": 83000,
+    "city": "Mexico City",
+    "country_code": "mx",
+    "name": "Estadio Azteca"
+  },
+  {
+    "id": "estadio-bbva:monterrey-(guadalupe)",
+    "capacity": 53500,
+    "city": "Monterrey (Guadalupe)",
+    "country_code": "mx",
+    "name": "Estadio BBVA"
+  },
+  {
+    "id": "nrg-stadium:houston",
+    "capacity": 72000,
+    "city": "Houston",
+    "country_code": "us",
+    "name": "NRG Stadium"
+  },
+  {
+    "id": "at&t-stadium:dallas-(arlington)",
+    "capacity": 94000,
+    "city": "Dallas (Arlington)",
+    "country_code": "us",
+    "name": "AT&T Stadium"
+  },
+  {
+    "id": "arrowhead-stadium:kansas-city",
+    "capacity": 73000,
+    "city": "Kansas City",
+    "country_code": "us",
+    "name": "Arrowhead Stadium"
+  },
+  {
+    "id": "mercedes-benz-stadium:atlanta",
+    "capacity": 75000,
+    "city": "Atlanta",
+    "country_code": "us",
+    "name": "Mercedes-Benz Stadium"
+  },
+  {
+    "id": "hard-rock-stadium:miami-(miami-gardens)",
+    "capacity": 65000,
+    "city": "Miami (Miami Gardens)",
+    "country_code": "us",
+    "name": "Hard Rock Stadium"
+  },
+  {
+    "id": "bmo-field:toronto",
+    "capacity": 45000,
+    "city": "Toronto",
+    "country_code": "ca",
+    "name": "BMO Field"
+  },
+  {
+    "id": "gillette-stadium:boston-(foxborough)",
+    "capacity": 65000,
+    "city": "Boston (Foxborough)",
+    "country_code": "us",
+    "name": "Gillette Stadium"
+  },
+  {
+    "id": "lincoln-financial-field:philadelphia",
+    "capacity": 69000,
+    "city": "Philadelphia",
+    "country_code": "us",
+    "name": "Lincoln Financial Field"
+  },
+  {
+    "id": "metlife-stadium:new-york/new-jersey-(east-rutherford)",
+    "capacity": 82500,
+    "city": "New York/New Jersey (East Rutherford)",
+    "country_code": "us",
+    "name": "MetLife Stadium"
+  }
+]
