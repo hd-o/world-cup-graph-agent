@@ -94,9 +94,13 @@
         { cmd = "uv run pre-commit install" },
     ]
 
+[tool.poe.tasks._databases]
+    cmd = "docker compose up -d --wait --wait-timeout 300 neo4j neo4j-eval dozzle"
+
 [tool.poe.tasks."dev"]
-    help = "Start dev containers; after changing Dockerfile, run with --build"
-    cmd = "docker compose up -d"
+    help = "Start databases, bootstrap, and wait for LangGraph; use --build after Dockerfile changes"
+    deps = ["bootstrap"]
+    cmd = "docker compose up -d --force-recreate --wait --wait-timeout 120 langgraph"
 
 [tool.poe.tasks.aws]
     help = "AWS operator commands"
@@ -112,6 +116,7 @@
 
 [tool.poe.tasks.bootstrap]
     help = "Provision graph and checkpoint databases, users, schemas, and seed data"
+    deps = ["_databases"]
     cmd = "python -m world_cup_graph_agent.infrastructure.neo4j.bootstrap"
 
 [tool.poe.tasks.reset]
@@ -119,7 +124,6 @@
     sequence = [
         { cmd = "docker compose down -v" },
         { ref = "dev" },
-        { ref = "bootstrap" },
     ]
 
 [tool.poe.tasks."lint"]

@@ -25,13 +25,19 @@ Configure `.env` from `.env.example`, including your OpenRouter key, then:
 ```bash
 source .venv/bin/activate
 poe dev
-poe bootstrap
-docker compose restart langgraph
 ```
 
-Wait for Neo4j to become healthy before bootstrap. Bootstrap provisions the
-database users needed for LangGraph startup. The server is ready when
-`http://localhost:2024/ok` returns `{"ok":true}`.
+`poe dev` starts the development and evaluation databases and log viewer, waits
+for database health, and bootstraps the development database. It then recreates
+LangGraph with the current environment and waits for its health check. The
+command succeeds when `http://localhost:2024/ok` returns `{"ok":true}`.
+Bootstrap preserves existing graph data and synchronizes application-user
+passwords with the configured values. A bootstrap or readiness failure stops
+the command with an error.
+
+Use `poe dev --build` after changing the Dockerfile or locked dependencies.
+Run `poe bootstrap` to provision the development database separately; it starts
+and waits for the database services before provisioning.
 
 Open <https://agentchat.vercel.app> and enter:
 
@@ -46,6 +52,12 @@ The API-key field carries a public demo identity token, not your LangSmith
 or OpenRouter key. The browser sends requests directly to the local server.
 Allow local-network access if the browser asks. For a remote devcontainer,
 forward port 2024 to your browser's machine.
+
+In GitHub Codespaces, set port 2024's forwarding protocol to **HTTP**. For the
+hosted Agent Chat UI to access it directly, set its visibility to **Public**
+for the development session. Use the copied `https://...-2024.app.github.dev`
+URL as the Deployment URL, without a trailing `/`. The public demo tokens do
+not secure a publicly exposed server; keep this limited to a temporary demo.
 
 Try “What is Brazil's FIFA code?” Text chat, conversation history, and
 research/change approval decisions are supported. Uploads, message editing,
@@ -84,8 +96,9 @@ Every eval selection starts the full development stack, including the
 dedicated Neo4j eval service, once per pytest session through the shared
 `development_server` fixture in `evals/conftest.py`. It runs
 `uv run poe dev --wait --wait-timeout 120`. Compose waits for stack health;
-startup has a 600-second command timeout. The development stack stays running
-afterward. Environment configuration and `poe bootstrap` are prerequisites.
+startup has a 600-second command timeout. The command bootstraps the development database before starting LangGraph.
+The development stack stays running afterward. Environment configuration is
+a prerequisite.
 
 Access checks target the local API at `http://localhost:2024` and create
 conversation state on that server. Direct graph scenarios reset only the

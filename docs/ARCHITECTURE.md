@@ -22,7 +22,9 @@ conversation state, and approval pauses. It is not the football database.
 
 ```mermaid
 flowchart TD
-    User[User through SDK or Studio] --> Server[Local LangGraph server]
+    Dev["poe dev: wait for databases, then bootstrap"]
+    Dev -->|start and wait for /ok| Server[Local LangGraph server]
+    User[User through SDK or Studio] --> Server
     Site[agentchat.vercel.app: hosted UI] --> Browser[User browser]
     Browser -->|localhost:2024, X-Api-Key demo token| Server
     Server --> Supervisor[Supervisor: answers questions]
@@ -38,6 +40,15 @@ flowchart TD
     Server --> Checkpoints[(Neo4j: conversation checkpoints)]
     Server --> Records[LangGraph volume: ownership and run records]
 ```
+
+### Local startup
+
+`poe dev` waits for the Neo4j development and evaluation services to become
+healthy, runs development bootstrap, then recreates the LangGraph server and
+waits for `/ok` to succeed. Bootstrap provisions the application users before
+the server opens its checkpoint connection. A failed bootstrap prevents server
+startup, and a failed health check makes the command fail. Existing graph data
+and checkpoint volumes persist across this startup sequence.
 
 ### Agent assembly
 
