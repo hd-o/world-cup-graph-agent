@@ -95,7 +95,7 @@
     ]
 
 [tool.poe.tasks._databases]
-    cmd = "docker compose up -d --wait --wait-timeout 300 neo4j neo4j-eval dozzle"
+    cmd = "docker compose up -d --wait --wait-timeout 600 neo4j neo4j-eval dozzle"
 
 [tool.poe.tasks."dev"]
     help = "Start databases, bootstrap, and wait for LangGraph; use --build after Dockerfile changes"

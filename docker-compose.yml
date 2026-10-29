@@ -32,10 +32,10 @@ services:
           'cypher-shell -a bolt://localhost:7687 -u "$${HEALTHCHECK_USERNAME:-neo4j}" -p "$${HEALTHCHECK_PASSWORD:-worldcup_bootstrap_password}" ''RETURN 1''',
         ]
       interval: 10s
-      start_interval: 2s
+      start_interval: 5s
       timeout: 10s
       retries: 10
-      start_period: 30s
+      start_period: 60s
     restart: unless-stopped
 
   neo4j-eval:
@@ -62,9 +62,10 @@ services:
           'cypher-shell -a bolt://localhost:7687 -u "$${HEALTHCHECK_USERNAME:-neo4j}" -p "$${HEALTHCHECK_PASSWORD:-worldcup_eval_bootstrap_password}" ''RETURN 1''',
         ]
       interval: 10s
+      start_interval: 5s
       timeout: 5s
       retries: 10
-      start_period: 30s
+      start_period: 60s
     restart: unless-stopped
 
   langgraph:
