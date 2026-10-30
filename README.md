@@ -9,6 +9,8 @@ inference and research; LangSmith visualizes evaluation traces and feedback.
 
 ## Try it with GitHub Codespaces
 
+> 🔊 Unmute for voice-over
+
 https://github.com/user-attachments/assets/3e605016-0a90-4efd-9182-df426702faab
 
 ## What you learn
