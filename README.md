@@ -13,6 +13,10 @@ inference and research; LangSmith visualizes evaluation traces and feedback.
 
 https://github.com/user-attachments/assets/3e605016-0a90-4efd-9182-df426702faab
 
+- Agent Chat UI: <https://agentchat.vercel.app>
+- OpenRouter Keys: <https://openrouter.ai/workspaces/default/keys>
+- LangSmith Keys: `https://smith.langchain.com/o/{ORG_ID}/settings/apikeys`
+
 ## What you learn
 
 For software engineers familiar with APIs and databases who want practical
