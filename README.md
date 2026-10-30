@@ -5,14 +5,11 @@ questions from stored facts, researches missing information with permission,
 and proposes graph updates for a separate approval. OpenRouter supplies model
 inference and research; LangSmith visualizes evaluation traces and feedback.
 
-**This is a teaching project in development, not a production service.**
-Local development uses the LangGraph server. AWS AgentCore Runtime and GCP
-Cloud Run have separate hosted deployment implementations.
+**This is a teaching demo project, not a production service.**
 
-**Neo4j Enterprise license required.** You must provide your own valid
-Neo4j Enterprise license to run this project locally or in the cloud.
-The startup scripts set `NEO4J_ACCEPT_LICENSE_AGREEMENT=yes`. This repository's
-MIT license covers its code; it does not grant a Neo4j Enterprise license.
+## Try it with GitHub Codespaces
+
+https://github.com/user-attachments/assets/3e605016-0a90-4efd-9182-df426702faab
 
 ## What you learn
 
@@ -181,3 +178,9 @@ Read: [GCP overview](docs/ARCHITECTURE.md#gcp-overview),
   organized by chapter, with implementation boundaries made explicit.
 - [Teaching guide](docs/TEACHING.md): cumulative build and recording briefs.
 - [Evidence](docs/EVIDENCE.md): coverage, results status, and reproducibility.
+
+## Neo4j License
+
+You must provide your own valid Neo4j Enterprise license to run this in production.
+The startup scripts set `NEO4J_ACCEPT_LICENSE_AGREEMENT=yes`. This repository's
+MIT license covers its code; it does not grant a Neo4j Enterprise license.
